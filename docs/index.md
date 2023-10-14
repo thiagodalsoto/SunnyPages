@@ -2,7 +2,7 @@
   <p>
       <h1>
       <a href="https://github.com/XMuli/SunnyPages">
-          <img src="./docs/snapshot/logo.svg"  alt="Sunny" />
+          <img src="snapshot/logo.svg"  alt="Sunny" />
       </a>
       <br/>
       Sunny
@@ -23,9 +23,8 @@
       <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs" />
     </a>
   </p>
-  <p align="right"><br><a href="README.md">English</a> | <a href="README.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="index.md">English</a> | <a href="index.zh_CN.md">简体中文</a></p>
 </div>
-
 
 
 
@@ -35,7 +34,7 @@
 
 ## Snapshoot
 
-<img src="./docs/snapshot/snapshoot-windows-01.png" width="100%"/>
+<img src="snapshot/snapshoot-windows-01.png" width="100%"/>
 
 <br>
 
@@ -64,7 +63,7 @@
 
 ## Contributors
 
-If it helps you, or find it useful, <font color=#FE7207  size=4 face="幼圆">you can click on the item's <font color=#D0087E size=4 face="幼圆">**⭐Star** **🍴 Fork** </font> of the two icons, conveniently lift the hand between, said a point of praise the hand,</font> There is a fragrance in your hand；The next best thing is to buy me a cold Coke.   
+If it helps you, or find it useful, you can click on the item's**⭐Star** **🍴 Fork**  of the two icons, conveniently lift the hand between, said a point of praise the hand, There is a fragrance in your hand；The next best thing is to buy me a cold Coke.   
 
 <br>
 
@@ -77,9 +76,9 @@ If it helps you, or find it useful, <font color=#FE7207  size=4 face="幼圆">yo
 
 ## Package Download
 
-<font color=#D0087E> → Offline Installer Download [Releases](https://github.com/XMuli/SunnyPages/releases); </font>
+ → Offline Installer Download [Releases](https://github.com/XMuli/SunnyPages/releases); 
 
-<font color=#D0087E>→ **Feedback BUG/SUGGEST, user community, etc.** → [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&jump_from=webapi&authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu)  </font>
+Feedback BUG/SUGGEST, user community, etc.→ [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&jump_from=webapi&authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu)  
 
 <br>
 
