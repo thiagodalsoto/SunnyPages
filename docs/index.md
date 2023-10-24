@@ -14,17 +14,15 @@
   </p>
   <p>
     <a href="https://github.com/XMuli/SunnyPages/releases">
-      <img src="https://img.shields.io/github/languages/code-size/XMuli/SunnyPages" alt="code-size" />
-    </a>
-    <a href="https://github.com/XMuli/SunnyPages/releases">
       <img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />
     </a>
-  <a href="https://github.com/XMuli/FILPPED">
+  <a href="https://github.com/XMuli/SunnyPages">
       <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs" />
     </a>
   </p>
-  <p align="right"><br><a href="index.md">English</a> | <a href="index.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="README.md">English</a> | <a href="README.zh_CN.md">简体中文</a></p>
 </div>
+
 
 
 
@@ -32,13 +30,40 @@
 
 [TOC]
 
+## Introduce
+
+| Name         | URL                                                          |
+| ------------ | ------------------------------------------------------------ |
+| Site         | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
+| GitHub       | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
+| Gitee        | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
+|              |                                                              |
+| **Down**     | [releases](https://github.com/XMuli/SunnyPages/releases)     |
+| **Feedback** | [Issues](https://github.com/XMuli/SunnyPages/issues)  \| ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen) |
+
+
+
 ## Snapshoot
 
-<img src="snapshot/snapshoot-windows-01.png" width="100%"/>
+- **Windows**
 
-<br>
+  <img src="snapshot/snapshoot-windows-01.png" width="100%"/>
 
-<font color=#D0087E size=4 face="幼圆"> **Other:** More snapshoot effects can be → [here](./snapshot) preview </font>
+  <img src="snapshot/snapshoot-windows-02.png" width="100%"/>
+
+  <img src="snapshot/snapshoot-windows-03.png" width="100%"/>
+
+  <img src="snapshot/snapshoot-windows-04.png" width="100%"/>
+
+  
+
+- **Linux**
+
+  <img src="snapshot/snapshoot-ubuntu-01.png" width="100%"/>
+
+  <img src=snapshot/snapshoot-ubuntu-02.png" width="100%"/>
+
+  <img src="snapshot/snapshoot-ubuntu-03.png" width="100%"/>
 
 <br>
 
@@ -51,12 +76,9 @@
 | <kbd>Shift</kbd> + <kbd>F6</kbd>                             | Custom size capture screen      | Global |
 |                                                              |                                 |        |
 | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> ( <kbd>A</kbd>, <kbd>S</kbd>, <kbd>W</kbd>, <kbd>D</kbd> ) | Move selection 1px              | Local  |
-| <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 1 px         | Local  |
-| <kbd>Alt</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 1 px           | Local  |
-| <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Move selection 10 px            | Local  |
-| <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px        | Local  |
-| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px          | Local  |
-| <kbd>Shift</kbd> + <kbd>F4</kbd>                             | Quick Save Image                | Local  |
+| <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px        | Local  |
+| <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px          | Local  |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>            | Quick Save Image                | Local  |
 | <kbd>Esc</kbd>                                               | Quit                            | Local  |
 
 <br>
@@ -72,14 +94,6 @@ If it helps you, or find it useful, you can click on the item's**⭐Star** **�
   <p> - If you have something to learn from the project, you can also invite me to share a glass of Fat House Ice and Coke. - </p>
   <pre><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202302282339037.png" width="80%"/></pre>
 </details>
-<br>
-
-## Package Download
-
- → Offline Installer Download [Releases](https://github.com/XMuli/SunnyPages/releases); 
-
-Feedback BUG/SUGGEST, user community, etc.→ [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&jump_from=webapi&authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu)  
-
 <br>
 
 ## Development Experience Article
