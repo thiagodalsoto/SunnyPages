@@ -9,8 +9,6 @@
     </h1>
     <br/>
     <h4>Simple and beautiful screenshot software tool for Windows, MacOS and Linux</h4>
-    <h4>简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台</h4>
-    <h4>簡潔且漂亮的截圖的軟件工具，支持 Windows，MacOS，Linux 平臺</h4>
   </p>
   <p>
     <a href="https://github.com/XMuli/SunnyPages/releases">
@@ -20,8 +18,9 @@
       <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs" />
     </a>
   </p>
-  <p align="right"><br><a href="README.md">English</a> | <a href="README.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="README.md">English</a> | <a href="index.zh_CN.md">简体中文</a></p>
 </div>
+
 
 
 
@@ -32,54 +31,88 @@
 
 ## Introduce
 
-| Name         | URL                                                          |
-| ------------ | ------------------------------------------------------------ |
-| Site         | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
-| GitHub       | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
-| Gitee        | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
-|              |                                                              |
-| **Down**     | [releases](https://github.com/XMuli/SunnyPages/releases)     |
-| **Feedback** | [Issues](https://github.com/XMuli/SunnyPages/issues)  \| ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen) |
+### Describe
+
+> Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux.
+>
+> Sunny (桑尼) 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台。
+>
+> Sunny (桑尼) 截圖是一款簡潔且漂亮的截圖的軟件工具，支持 Windows，MacOS，Linux 平臺。
 
 
 
-## Snapshoot
+### Site
 
-- **Windows**
+| Name       | URL                                                          |
+| ---------- | ------------------------------------------------------------ |
+| **Site**   | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
+| **GitHub** | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
+| Gitee      | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
+|            |                                                              |
+| Down       | [releases](https://github.com/XMuli/SunnyPages/releases)     |
+| Feedback   | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
 
-  <img src="snapshot/snapshoot-windows-01.png" width="100%"/>
+Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the exchange group: ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)
 
-  <img src="snapshot/snapshoot-windows-02.png" width="100%"/>
 
-  <img src="snapshot/snapshoot-windows-03.png" width="100%"/>
 
-  <img src="snapshot/snapshoot-windows-04.png" width="100%"/>
+## Voido
 
-  
-
-- **Linux**
-
-  <img src="snapshot/snapshoot-ubuntu-01.png" width="100%"/>
-
-  <img src=snapshot/snapshoot-ubuntu-02.png" width="100%"/>
-
-  <img src="snapshot/snapshoot-ubuntu-03.png" width="100%"/>
+<video width="100%" height="100%" controls autoplay loop>
+  <source src="snapshot/Sunny-introduce.mp4" type="video/mp4">
+  Sunny-introduce.mp4  XMuli Sunny Screenshot 截图 软件 跨平台 简洁 漂亮
+</video>
 
 <br>
 
+## Snapshoot
+
+### Windows
+
+<img src="snapshot/snapshoot-windows-05.png" width="55%"/> <img src="snapshot/snapshoot-windows-03.png" width="40%"/>
+
+### Linux
+
+#### Ubuntu 22.04
+
+<img src="snapshot/snapshoot-ubuntu-01.png" width="46%"/> <img src="snapshot/snapshoot-ubuntu-04.png" width="46%"/>
+
+#### Deepin V20.9 / UOS
+
+<img src="snapshot/snapshoot-Deepin-01.jpg" width="46%"/>  <img src="snapshot/snapshoot-Deepin-02.jpg" width="46%"/>
+
+
+
+## Features
+
+- Support for various system style themes.
+- Customizable transparent frosted glass effect (acrylic).
+- Switchable orientation for the drawing toolbar: horizontal or vertical.
+- Support for high-contrast color theme switching (via configuration file modification).
+- Capabilities for regular screenshots, delayed screenshots, and custom screenshots.
+- Quick and automatic saving options.
+- Screen detection for capturing window content (window information and window depth).
+- Ability to pin images to the screen with scaling and transparency settings.
+- Simultaneous support for multiple text formats during editing.
+- And more.
+
+
+
 ## Keyboard shortcuts
 
-| Keys                                                         | Description                     | Mode   |
-| ------------------------------------------------------------ | ------------------------------- | ------ |
-| <kbd>F6</kbd>                                                | Window activation capture scree | Global |
-| <kbd>Ctrl</kbd> + <kbd>F6</kbd>                              | Delay screen capture            | Global |
-| <kbd>Shift</kbd> + <kbd>F6</kbd>                             | Custom size capture screen      | Global |
-|                                                              |                                 |        |
-| <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> ( <kbd>A</kbd>, <kbd>S</kbd>, <kbd>W</kbd>, <kbd>D</kbd> ) | Move selection 1px              | Local  |
-| <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px        | Local  |
-| <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px          | Local  |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>            | Quick Save Image                | Local  |
-| <kbd>Esc</kbd>                                               | Quit                            | Local  |
+| Keys                                                         | Description                                                  | Mode   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| <kbd>F6</kbd>                                                | Window activation capture scree                              | Global |
+| <kbd>Ctrl</kbd> + <kbd>F6</kbd>                              | Delay screen capture                                         | Global |
+| <kbd>Shift</kbd> + <kbd>F6</kbd>                             | Custom size capture screen                                   | Global |
+|                                                              |                                                              |        |
+| <kbd>Esc</kbd>                                               | Quit Screenshot                                              | Local  |
+| <kbd>Tab</kbd>                                               | Select the depth of the detected sub-window rectangle        | Local  |
+| <kbd>`</kbd> / <kbd>~</kbd>                                  | Show / Hide information about the current window ( ExeName / Path / Size / PID / HWnd ...) | Local  |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>            | Shortcut keys to quickly save to a specified path            | Local  |
+| <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> ( <kbd>A</kbd>, <kbd>S</kbd>, <kbd>W</kbd>, <kbd>D</kbd> ) | Move selection 1px                                           | Local  |
+| <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px                                     | Local  |
+| <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px                                       | Local  |
 
 <br>
 
