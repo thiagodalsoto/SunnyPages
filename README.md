@@ -27,11 +27,7 @@
 
 ### Describe
 
-> Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux.
->
-> Sunny (桑尼) 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台。
->
-> Sunny (桑尼) 截圖是一款簡潔且漂亮的截圖的軟件工具，支持 Windows，MacOS，Linux 平臺。
+Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux.
 
 
 
@@ -64,19 +60,18 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 ### Windows
 
-<img src="./docs/snapshot/snapshoot-windows-05.png" width="55%"/> <img src="./docs/snapshot/snapshoot-windows-03.png" width="40%"/>
+​	<img src="./docs/snapshot/snapshoot-windows-05.png" width="45%"/>  <img src="./docs/snapshot/snapshoot-windows-06.png" width="45%">
 
 ### Linux
 
 - **Ubuntu 22.04**
 
-  <img src="./docs/snapshot/snapshoot-ubuntu-01.png" width="46%"/>  <img src="./docs/snapshot/snapshoot-ubuntu-04.png" width="46%"/>
+  <img src="./docs/snapshot/snapshoot-ubuntu-01.png" width="45%"/>  <img src="./docs/snapshot/snapshoot-ubuntu-04.png" width="45%"/>
 
 - **Deepin V20.9 / UOS**
 
-  <img src="./docs/snapshot/snapshoot-Deepin-01.jpg" width="46%"/> <img src="./docs/snapshot/snapshoot-Deepin-02.jpg" width="46%"/>
+  <img src="./docs/snapshot/snapshoot-Deepin-01.jpg" width="45%"/> <img src="./docs/snapshot/snapshoot-Deepin-02.jpg" width="45%"/>
 
- 
 
 ## Features
 

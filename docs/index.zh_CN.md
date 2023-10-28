@@ -11,15 +11,10 @@
     <h4>一款简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台</h4>
   </p>
   <p>
-    <a href="https://github.com/XMuli/SunnyPages/releases">
-      <img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />
-    </a>
-  <a href="https://github.com/XMuli/SunnyPages">
-      <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs" />
-    </a>
   </p>
-  <p align="right"><br><a href="README.md">English</a> | <a href="index.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="https://sunny.xmuli.tech">English</a> | <a href="https://github.com/XMuli/SunnyPages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
+
 
 
 
@@ -34,11 +29,7 @@
 
 ### Describe
 
-> Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux.
->
-> Sunny (桑尼) 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台。
->
-> Sunny (桑尼) 截圖是一款簡潔且漂亮的截圖的軟件工具，支持 Windows，MacOS，Linux 平臺。
+Sunny (桑尼) 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台。
 
 
 
@@ -63,25 +54,23 @@
   <source src="snapshot/Sunny-introduce.mp4" type="video/mp4">
   Sunny-introduce.mp4  XMuli Sunny Screenshot 截图 软件 跨平台 简洁 漂亮
 </video>
-
 <br>
 
 ## Snapshoot
 
 ### Windows
 
-<img src="snapshot/snapshoot-windows-05.png" width="55%"/> <img src="snapshot/snapshoot-windows-03.png" width="40%"/>
+​	<img src="snapshot/snapshoot-windows-05.png" width="45%"/>  <img src="snapshot/snapshoot-windows-06.png" width="45%">
 
 ### Linux
 
-#### Ubuntu 22.04
+- **Ubuntu 22.04**
 
-<img src="snapshot/snapshoot-ubuntu-01.png" width="46%"/> <img src="snapshot/snapshoot-ubuntu-04.png" width="46%"/>
+  <img src="snapshot/snapshoot-ubuntu-01.png" width="45%"/>  <img src="snapshot/snapshoot-ubuntu-04.png" width="45%"/>
 
-#### Deepin V20.9 / UOS
+- **Deepin V20.9 / UOS**
 
-<img src="snapshot/snapshoot-Deepin-01.jpg" width="46%"/>  <img src="snapshot/snapshoot-Deepin-02.jpg" width="46%"/>
-
+  <img src="snapshot/snapshoot-Deepin-01.jpg" width="45%"/> <img src="snapshot/snapshoot-Deepin-02.jpg" width="45%"/>
 
 
 ## Features
