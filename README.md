@@ -27,7 +27,7 @@
 
 ### Describe
 
-Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux.
+Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux. 
 
 
 
@@ -43,6 +43,18 @@ Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and 
 | Feedback   | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
 
 Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the exchange group: ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)
+
+
+
+**Linux Store：**
+
+- UOS / Deepin Store:
+
+  <img src="./docs/snapshot/App Store/UOS-Deepin Stroe.png" width="80%"/>
+
+- Spark Store:
+
+  <img src="./docs/snapshot/App Store/Spark Store.png" width="80%"/>
 
 
 
@@ -75,6 +87,15 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 ## Features
 
+- Supports "image translation" and "OCR of images to get text", and supports the use of private account tokens.
+
+  -  OCR image translation:
+
+    <img src="./docs/snapshot/ocr_translate.png" width="90%"/>
+
+  -  OCR of images to get text:
+
+    <img src="./docs/snapshot/ocr_text.png" width="90%"/>
 - Support for various system style themes.
 - Customizable transparent frosted glass effect (acrylic).
 - Switchable orientation for the drawing toolbar: horizontal or vertical.
