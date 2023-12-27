@@ -34,15 +34,15 @@ Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and 
 
 ### Site
 
-| Name        | URL                                                          |
-| ----------- | ------------------------------------------------------------ |
-| **Site**    | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
-| **GitHub**  | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
-| Gitee       | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
-|             |                                                              |
-| Down        | [releases](https://github.com/XMuli/SunnyPages/releases),  UOS / Deepin Store, Spark Store |
-| Feedback    | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
-| WeChat / QQ | 252311126                                                    |
+| Name       | URL                                                          |
+| ---------- | ------------------------------------------------------------ |
+| **Site**   | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
+| **GitHub** | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
+| Gitee      | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
+|            |                                                              |
+| Down       | [releases](https://github.com/XMuli/SunnyPages/releases),  UOS / Deepin Store, Spark Store |
+| Feedback   | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
+| 微信 / QQ  | 252311126                                                    |
 
 Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the exchange group: ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)
 
