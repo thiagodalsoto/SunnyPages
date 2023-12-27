@@ -34,14 +34,15 @@ Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and 
 
 ### Site
 
-| Name       | URL                                                          |
-| ---------- | ------------------------------------------------------------ |
-| **Site**   | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
-| **GitHub** | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
-| Gitee      | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
-|            |                                                              |
-| Down       | [releases](https://github.com/XMuli/SunnyPages/releases)     |
-| Feedback   | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
+| Name        | URL                                                          |
+| ----------- | ------------------------------------------------------------ |
+| **Site**    | [https://sunny.xmuli.tech](https://sunny.xmuli.tech)         |
+| **GitHub**  | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
+| Gitee       | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
+|             |                                                              |
+| Down        | [releases](https://github.com/XMuli/SunnyPages/releases),  UOS / Deepin Store, Spark Store |
+| Feedback    | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
+| WeChat / QQ | 252311126                                                    |
 
 Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the exchange group: ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)
 
@@ -60,17 +61,18 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 ### Windows
 
-​	<img src="snapshot/snapshoot-windows-05.png" width="45%"/>  <img src="snapshot/snapshoot-windows-06.png" width="45%">
+​	<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272301064.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272303776.png" width="45%"/>
 
 ### Linux
 
 - **Ubuntu 22.04**
 
-  <img src="snapshot/snapshoot-ubuntu-01.png" width="45%"/>  <img src="snapshot/snapshoot-ubuntu-04.png" width="45%"/>
+  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272304154.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305584.png" width="45%"/>
 
 - **Deepin V20.9 / UOS**
 
-  <img src="snapshot/snapshoot-Deepin-01.jpg" width="45%"/> <img src="snapshot/snapshoot-Deepin-02.jpg" width="45%"/>
+  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
+
 
 
 ## Features
@@ -103,6 +105,18 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> ( <kbd>A</kbd>, <kbd>S</kbd>, <kbd>W</kbd>, <kbd>D</kbd> ) | Move selection 1px                                           | Local  |
 | <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px                                     | Local  |
 | <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px                                       | Local  |
+
+<br>
+
+## App Store Down
+
+- **Deepin / UOS Store:**
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272306936.png" width="80%"/>
+
+**Spark Store Store:**
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272307984.png" width="80%"/>
 
 <br>
 
