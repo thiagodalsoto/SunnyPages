@@ -120,6 +120,12 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 <br>
 
+## internalisation
+
+Translation of documents, submission of PR →  [*.ts](https://github.com/XMuli/SunnyPages/tree/master/translations)
+
+<br>
+
 ## Contributors
 
 If it helps you, or find it useful, you can click on the item's**⭐Star** **🍴 Fork**  of the two icons, conveniently lift the hand between, said a point of praise the hand, There is a fragrance in your hand；The next best thing is to buy me a cold Coke.   

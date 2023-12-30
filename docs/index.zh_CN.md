@@ -121,6 +121,12 @@ Sunny 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，
 
 <br>
 
+## 国际化
+
+翻译文件，提交 PR  →  [*.ts](https://github.com/XMuli/SunnyPages/tree/master/translations)
+
+<br>
+
 ## 贡献
 
 <details>
