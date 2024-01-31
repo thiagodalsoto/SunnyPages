@@ -16,6 +16,8 @@
 </div>
 
 
+![](https://img.shields.io/badge/language-C++-orange.svg) ![](https://img.shields.io/badge/language-Qt-orange.svg)  [<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />](https://github.com/XMuli/SunnyPages/releases)  [<img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs"/>](https://github.com/XMuli/SunnyPages/releases)
+
 
 
 
@@ -30,6 +32,8 @@
 ### Describe
 
 Sunny 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台。
+
+本项目从 2023 年开始，至少会开发和维护十年，且是免费！
 
 
 

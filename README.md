@@ -17,7 +17,7 @@
   </p>
   <p align="right"><br><a href="README.md">English</a> | <a href="READ.zh_CN.md">简体中文</a></p>
 </div>
-
+![img](https://img.shields.io/badge/language-C++-orange.svg) ![img](https://img.shields.io/badge/language-Qt-orange.svg)  [![Total Downloads](https://img.shields.io/github/downloads/XMuli/SunnyPages/total)](https://github.com/XMuli/SunnyPages/releases)  [![Docs](https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs)](https://github.com/XMuli/SunnyPages/releases)
 
 
 
@@ -29,6 +29,8 @@
 
 Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux. 
 
+This program will be developed and maintained for at least ten years starting in 2023 and is **free** of charge!
+
 
 
 ### Site
@@ -39,7 +41,7 @@ Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and 
 | **GitHub** | [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages) |
 | Gitee      | [https://gitee.com/XMuli/SunnyPages](https://gitee.com/XMuli/SunnyPages) |
 |            |                                                              |
-| Down       | [releases](https://github.com/XMuli/SunnyPages/releases)     |
+| Down       | [Releases](https://github.com/XMuli/SunnyPages/releases),  UOS / Deepin Store, Spark Store |
 | Feedback   | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
 
 Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the exchange group: ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)
