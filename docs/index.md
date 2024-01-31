@@ -74,6 +74,12 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 
 
+## Code Signing Certificate 🎉🎉🎉
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>
+
+
+
 ## Features
 
 - Support for various system style themes.

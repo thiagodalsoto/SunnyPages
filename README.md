@@ -11,13 +11,11 @@
     <h4>Simple and beautiful screenshot software tool for Windows, MacOS and Linux</h4>
   </p>
   <p>
-    <a href="https://github.com/XMuli/SunnyPages/releases">
-  <a href="https://github.com/XMuli/SunnyPages">
-    </a>
   </p>
-  <p align="right"><br><a href="README.md">English</a> | <a href="READ.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="https://sunny.xmuli.tech">English</a> | <a href="https://github.com/XMuli/SunnyPages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
-![img](https://img.shields.io/badge/language-C++-orange.svg) ![img](https://img.shields.io/badge/language-Qt-orange.svg)  [![Total Downloads](https://img.shields.io/github/downloads/XMuli/SunnyPages/total)](https://github.com/XMuli/SunnyPages/releases)  [![Docs](https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs)](https://github.com/XMuli/SunnyPages/releases)
+<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" /> <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs"/>
+
 
 
 
@@ -27,7 +25,7 @@
 
 ### Describe
 
-Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux. 
+Sunny is a simple and beautiful screenshot software tool for Windows, MacOS and Linux.
 
 This program will be developed and maintained for at least ten years starting in 2023 and is **free** of charge!
 
@@ -43,30 +41,18 @@ This program will be developed and maintained for at least ten years starting in
 |            |                                                              |
 | Down       | [Releases](https://github.com/XMuli/SunnyPages/releases),  UOS / Deepin Store, Spark Store |
 | Feedback   | [Issues](https://github.com/XMuli/SunnyPages/issues)         |
+| 微信 / QQ  | 252311126                                                    |
 
 Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the exchange group: ![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)
-
-
-
-**Linux Store：**
-
-- UOS / Deepin Store:
-
-  <img src="./docs/snapshot/App Store/UOS-Deepin Stroe.png" width="80%"/>
-
-- Spark Store:
-
-  <img src="./docs/snapshot/App Store/Spark Store.png" width="80%"/>
 
 
 
 ## Voido
 
 <video width="100%" height="100%" controls autoplay loop>
-  <source src="./docs/snapshot/Sunny-introduce.mp4" type="video/mp4">
+  <source src="snapshot/Sunny-introduce.mp4" type="video/mp4">
   Sunny-introduce.mp4  XMuli Sunny Screenshot 截图 软件 跨平台 简洁 漂亮
 </video>
-
 
 <br>
 
@@ -74,30 +60,28 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 ### Windows
 
-​	<img src="./docs/snapshot/snapshoot-windows-05.png" width="45%"/>  <img src="./docs/snapshot/snapshoot-windows-06.png" width="45%">
+​	<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272301064.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272303776.png" width="45%"/>
 
 ### Linux
 
 - **Ubuntu 22.04**
 
-  <img src="./docs/snapshot/snapshoot-ubuntu-01.png" width="45%"/>  <img src="./docs/snapshot/snapshoot-ubuntu-04.png" width="45%"/>
+  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272304154.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305584.png" width="45%"/>
 
 - **Deepin V20.9 / UOS**
 
-  <img src="./docs/snapshot/snapshoot-Deepin-01.jpg" width="45%"/> <img src="./docs/snapshot/snapshoot-Deepin-02.jpg" width="45%"/>
+  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
+
+
+
+## Code Signing Certificate 🎉🎉🎉
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>
+
 
 
 ## Features
 
-- Supports "image translation" and "OCR of images to get text", and supports the use of private account tokens.
-
-  -  OCR image translation:
-
-    <img src="./docs/snapshot/ocr_translate.png" width="90%"/>
-
-  -  OCR of images to get text:
-
-    <img src="./docs/snapshot/ocr_text.png" width="90%"/>
 - Support for various system style themes.
 - Customizable transparent frosted glass effect (acrylic).
 - Switchable orientation for the drawing toolbar: horizontal or vertical.
@@ -120,12 +104,24 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 | <kbd>Shift</kbd> + <kbd>F6</kbd>                             | Custom size capture screen                                   | Global |
 |                                                              |                                                              |        |
 | <kbd>Esc</kbd>                                               | Quit Screenshot                                              | Local  |
-| <kbd>Tab</kbd>                                               | **Select the depth of the detected sub-window rectangle**    | Local  |
-| <kbd>`</kbd> / <kbd>~</kbd>                                  | **Show / Hide information about the current window ( ExeName / Path / Size / PID / HWnd ...)** | Local  |
+| <kbd>Tab</kbd>                                               | Select the depth of the detected sub-window rectangle        | Local  |
+| <kbd>`</kbd> / <kbd>~</kbd>                                  | Show / Hide information about the current window ( ExeName / Path / Size / PID / HWnd ...) | Local  |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>            | Shortcut keys to quickly save to a specified path            | Local  |
 | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> ( <kbd>A</kbd>, <kbd>S</kbd>, <kbd>W</kbd>, <kbd>D</kbd> ) | Move selection 1px                                           | Local  |
 | <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px                                     | Local  |
 | <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px                                       | Local  |
+
+<br>
+
+## App Store Down
+
+- **Deepin / UOS Store:**
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272306936.png" width="80%"/>
+
+**Spark Store Store:**
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272307984.png" width="80%"/>
 
 <br>
 

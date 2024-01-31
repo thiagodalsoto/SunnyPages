@@ -77,7 +77,14 @@ Sunny 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，
   
     <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
   
-  
+
+
+
+## Code Signing Certificate 🎉🎉🎉
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>
+
+
 
 
 ## Features
