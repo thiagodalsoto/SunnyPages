@@ -117,11 +117,11 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 
 - **Deepin / UOS Store:**
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272306936.png" width="80%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016686.png" width="80%"/>
 
 **Spark Store Store:**
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272307984.png" width="80%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016823.png" width="80%"/>
 
 <br>
 

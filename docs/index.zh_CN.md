@@ -124,11 +124,11 @@ Sunny 截图是一款简洁且漂亮的截图的软件工具，支持 Windows，
 
 - **Deepin / UOS Store:**
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272306936.png" width="80%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016686.png" width="80%"/>
 
 **Spark Store Store:**
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272307984.png" width="80%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016823.png" width="80%"/>
 
 <br>
 
