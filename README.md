@@ -71,6 +71,10 @@ Feedback Bugs, Suggestions or Ideas; any help to improve, you can join the excha
 - **Deepin V20.9 / UOS**
 
   <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
+  
+- **openkylin V1.0.1**
+
+  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402192238634.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402192238459.png" width="45%"/>
 
 
 
