@@ -186,9 +186,17 @@ Download: App Store : Microsoft Store / Deepin Store / UOS Store / Spark Store
 
 <br>
 
+### Openkylin Store
+
+可直接商商店下载， 感谢  [XXTXTOP](www.xiongshijie.top) 帮助上架此麒麟商店！
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403012303610.jpg" width="80%"/>
+
+<br>
+
 ### Spark Store
 
-以及三方的星火商店，也可直接下载
+三方的星火商店，也可直接下载
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010053091.png" width="80%"/>
 

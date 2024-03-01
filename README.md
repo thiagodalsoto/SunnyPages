@@ -2,7 +2,7 @@
   <p>
       <h1>
       <a href="https://github.com/XMuli/SunnyPages">
-          <img src="snapshot/logo.svg"  alt="Sunny" />
+          <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202403010944770.svg"  alt="Sunny" />
       </a>
       <br/>
       Sunny
@@ -14,8 +14,8 @@
   </p>
   <p align="right"><br><a href="https://sunny.xmuli.tech">English</a> | <a href="https://github.com/XMuli/SunnyPages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
-![](https://img.shields.io/badge/language-C++-orange.svg) ![](https://img.shields.io/badge/language-Qt-orange.svg)  [<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />](https://github.com/XMuli/SunnyPages/releases)  [<img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs"/>](https://github.com/XMuli/SunnyPages/releases)
 
+<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />  <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs"/>
 
 
 
@@ -68,7 +68,7 @@ Feedback on bugs, suggestions or ideas to help improve and join the community: [
 
 ### MacOS
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010038655.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010037565.jpg" width="50%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010038655.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010037565.jpg" width="48%"/>
 
 
 
@@ -76,7 +76,7 @@ Feedback on bugs, suggestions or ideas to help improve and join the community: [
 
 #### Ubuntu 22.04
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272304154.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305584.png" width="45%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202403010947701.jpg" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202403010947718.jpg" width="45%"/>
 
 #### Deepin V20.9 / UOS
 
@@ -180,6 +180,12 @@ On Window 10/11+ systems, also available for direct download from the Microsoft 
 The Deep Community, Unicom OS Store, is now available for direct download.
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016686.png" width="80%"/>
+
+### Openkylin Store
+
+Direct download from the software store， Thanks to [XXTXTOP](www.xiongshijie.top) for helping to stock this Openkylin Store!
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403012303610.jpg" width="80%"/>
 
 ### Spark Store
 

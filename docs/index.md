@@ -181,11 +181,19 @@ The Deep Community, Unicom OS Store, is now available for direct download.
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016686.png" width="80%"/>
 
+### Openkylin Store
+
+Direct download from the software store， Thanks to [XXTXTOP](www.xiongshijie.top) for helping to stock this Openkylin Store!
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403012303610.jpg" width="80%"/>
+
 ### Spark Store
 
-as well as the three-way Starfire Store, also available for direct download
+as well as the three-way Starfire Store, also available for direct download; 
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010053091.png" width="80%"/>
+
+
 
 <br>
 
