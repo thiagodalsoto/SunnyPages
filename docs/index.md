@@ -14,7 +14,7 @@
   </p>
   <p align="right"><br><a href="https://sunny.xmuli.tech">English</a> | <a href="https://github.com/XMuli/SunnyPages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
-![](https://img.shields.io/badge/language-C++-orange.svg) ![](https://img.shields.io/badge/language-Qt-orange.svg)  [<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />](https://github.com/XMuli/SunnyPages/releases)  [<img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=docs" alt="Docs"/>](https://github.com/XMuli/SunnyPages/releases)
+![](https://img.shields.io/badge/language-C++-orange.svg) ![](https://img.shields.io/badge/language-Qt-orange.svg)  [<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />](https://github.com/XMuli/SunnyPages/releases)  [<img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=tags" alt="tags"/>](https://github.com/XMuli/SunnyPages/releases)
 
 
 
@@ -39,7 +39,7 @@ This program will be developed and maintained for at least ten years starting in
 
 📢：[GitHub](https://github.com/XMuli/SunnyPages/releases)，   [Gitee](https://gitee.com/XMuli/SunnyPages/releases)，    [Issues](https://github.com/XMuli/SunnyPages/issues)  
 
-Download: App Store : Microsoft Store / Deepin Store / UOS Store / Spark Store 
+Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Store / Spark Store 
 
 Feedback on bugs, suggestions or ideas to help improve and join the community: [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
 
@@ -237,6 +237,14 @@ Of all the software written, the total number of downloads is not the largest, b
 
 很久之前就想些一个软件截图的软件，目前一共写如下三个层级的难度作品，提供大家参考
 
+|  项目   |                             描述                             |                           开发经验                           |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  ShotX  |                      功能极简的截图工具                      |           简易，新手级的截图，适合初学 Qt/C++ 入门           |
+| FLIPPED |   简洁且漂亮，功能完整的截图软件；隐私安全，无任何联网功能   | 高级难度，属 Qt/C++ 数年经验的进阶作品，在借鉴同类作品的代码时，可于探索中独立完成的一个大的软件 |
+|  Sunny  | 一款简洁且漂亮的截图的软件工具。亦支持图片翻译和OCR；已上架微软商店，深度/统信商店，及三方的星火商店等 | 专业级作品，适合已多年沉浸研究 Qt/C++ 经验，随心所欲写任意所需功能，**属于商业级的成熟作品，是本截图系列的最高水准之作** |
+
+
+
 - **Ⅰ. 新手之作 ShotX**
   - 项目地址：[ShotX](https://github.com/XMuli/ShotX)   \|   [镜像](https://gitee.com/XMuli/ShotX)
   - 功       能：①基本的截图功能，复制和保存，②右键托盘及菜单，③支持 Window，MacOS，Linux，④攥写 Github-Action 的 CI/CD 自动脚本 .yml；实现自动打包和发布，⑤更多见 README 和 源码
@@ -251,12 +259,6 @@ Of all the software written, the total number of downloads is not the largest, b
   - 项目地址：[Sunny](https://github.com/XMuli/sunnypages)  \|  [镜像](https://gitee.com/XMuli/SunnyPages)
   - 功       能：是 FLIPPED 作品的超集合，常见截图功能都都包含。还包含额外的功能：① "图片翻译" (中/英/日/韩/俄等)，和"OCR 提取文字"，也支持用户私人token 的额度使用 ，② .iss 脚本和 CMake 来提供便携版，安装版，③ 绘画工具栏的亚克力效果，且支持跨平台（毛玻璃效果），④编辑文本支持富文本，同一个注释可采用多个字体和颜色等（暂未遇到其它同类软件也能做到），⑤全新的 UI/UE 设计交互，“设置窗口” 无任何缝隙拼接感，颜值达到简约美观，⑥优化截屏完成后的内存释放；⑦国际化翻译更方便，⑧CMake 重写拆分为 EXE + DLL 隔离，⑨进行代码签名，方便下载校验和防篡改，⑩成功上架 Window 的微软商店，Linux 的 深度/统信商店，以及三方的星火商店等；麒麟商店也在上架待审核
   - 描        述：基于前两个的项目经验和不足，直接重写了一套新的框架和UI界面；目前个人从代码功能和产品体验来说，已经达到 工程代码整洁、规范、稳定和健壮性，优秀的解耦机制，漂亮简约得 UI / UX 设计，可以随时应对变化的实际需求，很久之内都无需重构了。定位为 漂亮和简洁，功能实用为主。
-
-|  项目   |                             描述                             |                           开发经验                           |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  ShotX  |                      功能极简的截图工具                      |           简易，新手级的截图，适合初学 Qt/C++ 入门           |
-| FLIPPED |   简洁且漂亮，功能完整的截图软件；隐私安全，无任何联网功能   | 高级难度，属 Qt/C++ 数年经验的进阶作品，在借鉴同类作品的代码时，可于探索中独立完成的一个大的软件 |
-|  Sunny  | 一款简洁且漂亮的截图的软件工具。亦支持图片翻译和OCR；已上架微软商店，深度/统信商店，及三方的星火商店等 | 专业级作品，适合已多年沉浸研究 Qt/C++ 经验，随心所欲写任意所需功能，**属于商业级的成熟作品，是本截图系列的最高水准之作** |
 
 
 
