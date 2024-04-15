@@ -131,7 +131,7 @@ Feedback on bugs, suggestions or ideas to help improve and join the community: [
   - Microsoft Store                       微软商店
   - Deepin / UOS Store               深度社区 / 统信商店
   - Spark Store                             星火商店
-  - openkylin Store (Ongoing)    麒麟商店
+  - openkylin Store                      麒麟商店
 
 <br>
 
@@ -234,6 +234,16 @@ Of all the software written, the total number of downloads is not the largest, b
 <br>
 
 ## 截图作品系列
+
+
+
+|  项目   |                             描述                             |                           开发经验                           |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  ShotX  |                      功能极简的截图工具                      |           简易，新手级的截图，适合初学 Qt/C++ 入门           |
+| FLIPPED |   简洁且漂亮，功能完整的截图软件；隐私安全，无任何联网功能   | 高级难度，属 Qt/C++ 数年经验的进阶作品，在借鉴同类作品的代码时，可于探索中独立完成的一个大的软件 |
+|  Sunny  | 一款简洁且漂亮的截图的软件工具。亦支持图片翻译和OCR；已上架微软商店，深度/统信商店，及三方的星火商店等 | 专业级作品，适合已多年沉浸研究 Qt/C++ 经验，随心所欲写任意所需功能，**属于商业级的成熟作品，是本截图系列的最高水准之作** |
+
+<br>
 
 很久之前就想些一个软件截图的软件，目前一共写如下三个层级的难度作品，提供大家参考
 

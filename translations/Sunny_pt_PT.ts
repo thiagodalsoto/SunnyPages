@@ -8,10 +8,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Copyright (C) 2023~2024 Sunny.xmuli.tech&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:20pt;&quot;&gt;Sunny&lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:400;&quot;&gt;(64-bit)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24,10 +20,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Professional</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -36,11 +28,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;QQ Group: &lt;a href=&quot;https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&amp;amp;jump_from=webapi&amp;amp;authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;418103279&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Feedback&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feedback: &lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Issues&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head&gt;&lt;style&gt;a{text-decoration:none;color:black;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Copyright (C) 2023~2024 &lt;a href=&quot;https://sunny.xmuli.tech&quot;&gt;sunny.xmuli.tech&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -109,6 +101,17 @@
     </message>
 </context>
 <context>
+    <name>ImageTranslateDlg</name>
+    <message>
+        <source>To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Interface</name>
     <message>
         <source>Form</source>
@@ -140,10 +143,6 @@
     </message>
     <message>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -188,6 +187,10 @@
     </message>
     <message>
         <source>Crosshair show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom capture size</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -407,6 +410,10 @@ and specify -1 to let Sunny decide for you.</source>
         <source>Save Files</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Zoom: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -515,11 +522,27 @@ and specify -1 to let Sunny decide for you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translate [Youdao]</source>
+        <source>Channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OCR [BaiDu]</source>
+        <source>OCR：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Translate：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BaiDu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Youdao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -539,6 +562,17 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XOcrDlg</name>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>original [%1 * %2]   current [%3 * %4]   zoom: %5%</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

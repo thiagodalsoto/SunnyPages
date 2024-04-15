@@ -16,10 +16,6 @@
         <translation>開源許可</translation>
     </message>
     <message>
-        <source>Professional</source>
-        <translation>專業版</translation>
-    </message>
-    <message>
         <source>Version 1.0.0-msvc (yyyy.MM.dd)</source>
         <translation>Version 1.0.0-msvc (yyyy.MM.dd)</translation>
     </message>
@@ -28,20 +24,16 @@
         <translation>版本</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Copyright (C) 2023~2024 Sunny.xmuli.tech&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;版權所有 2023~2024 Sunny.xmuli.tech&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Author: &lt;a href=&quot;https://github.com/XMuli&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;XMuli&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;作者: &lt;a href=&quot;https://github.com/XMuli&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;XMuli&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;作者: &lt;a href=&quot;https://github.com/XMuli&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;偕臧&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;QQ Group: &lt;a href=&quot;https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&amp;amp;jump_from=webapi&amp;amp;authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;418103279&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;QQ群: &lt;a href=&quot;https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&amp;amp;jump_from=webapi&amp;amp;authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;418103279&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Feedback&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;反饋&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feedback: &lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Issues&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;反饋: &lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Issues&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;style&gt;a{text-decoration:none;color:black;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Copyright (C) 2023~2024 &lt;a href=&quot;https://sunny.xmuli.tech&quot;&gt;sunny.xmuli.tech&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;style&gt;a{text-decoration:none;color:black;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;版權所有 2023~2024 &lt;a href=&quot;https://sunny.xmuli.tech&quot;&gt;sunny.xmuli.tech&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -109,6 +101,17 @@
     </message>
 </context>
 <context>
+    <name>ImageTranslateDlg</name>
+    <message>
+        <source>To</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Image Translation</source>
+        <translation>圖片翻譯</translation>
+    </message>
+</context>
+<context>
     <name>Interface</name>
     <message>
         <source>Form</source>
@@ -137,10 +140,6 @@
     <message>
         <source>Highlight:</source>
         <translation>活動色:</translation>
-    </message>
-    <message>
-        <source>Custom size</source>
-        <translation>自定義大小截圖</translation>
     </message>
     <message>
         <source>,</source>
@@ -189,6 +188,10 @@
     <message>
         <source>Orientation:</source>
         <translation>工具欄的方位:</translation>
+    </message>
+    <message>
+        <source>Custom capture size</source>
+        <translation>自定義截圖的大小</translation>
     </message>
 </context>
 <context>
@@ -410,6 +413,10 @@ and specify -1 to let Sunny decide for you.</source>
         <source>Save</source>
         <translation>保存</translation>
     </message>
+    <message>
+        <source>Zoom: %1%</source>
+        <translation>縮放: %1%</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -518,12 +525,28 @@ and specify -1 to let Sunny decide for you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translate [Youdao]</source>
-        <translation>翻譯 [有道接口]</translation>
+        <source>Channel</source>
+        <translation>線路</translation>
     </message>
     <message>
-        <source>OCR [BaiDu]</source>
-        <translation>屏幕識圖 [百度接口]</translation>
+        <source>OCR：</source>
+        <translation>提取文字：</translation>
+    </message>
+    <message>
+        <source>Image Translate：</source>
+        <translation>圖片翻譯：</translation>
+    </message>
+    <message>
+        <source>BaiDu</source>
+        <translation>百度</translation>
+    </message>
+    <message>
+        <source>Youdao</source>
+        <translation>有道</translation>
+    </message>
+    <message>
+        <source>Next Page</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -543,6 +566,17 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Quit</source>
         <translation>退出</translation>
+    </message>
+</context>
+<context>
+    <name>XOcrDlg</name>
+    <message>
+        <source>OCR</source>
+        <translation>提取文字</translation>
+    </message>
+    <message>
+        <source>original [%1 * %2]   current [%3 * %4]   zoom: %5%</source>
+        <translation>原始 [%1 * %2]   當前 [%3 * %4]   縮放: %5%</translation>
     </message>
 </context>
 </TS>
