@@ -30,7 +30,29 @@ This program will be developed and maintained for at least ten years starting in
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402231450384.gif" width="100%"/>
 
+<br>
 
+### Supported Operating Systems
+
+|               |                           WINDOWS                            |                             MAC                              |                            LINUX                             |
+| :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  **System**   | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143559.svg" width="160"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143771.svg" width="110"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182144420.svg" width="110"/> |
+|  **Version**  |                          7/8/10/11+                          |                      10.14/11/12/13/14+                      | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182324375.svg" width="26"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182232778.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231482.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231276.svg" width="31"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182241243.svg" width="80"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182251350.svg" width="30"/> |
+| **App Store** | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182326645.svg" width="42"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182312344.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182318441.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182320190.svg" width="40"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023115.svg" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023950.png" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182230495.svg" width="40"/> |
+
+<br>
+
+Verified versions of Linux distributions：
+
+1. Ubuntu 22.04
+2. Debian 12
+3. Deepin 20.9/23+ (AMD64 / ARM64 / LOONGSON)
+4. UOS 1010
+5. OpenKylin 1.01
+6. Kali 24.1
+7. etc.
+
+<br>
 
 ### Site
 

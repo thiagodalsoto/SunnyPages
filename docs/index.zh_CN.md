@@ -35,7 +35,29 @@ Sunny 是一款漂亮且实用的 "截图 & 钉图" 的软件，亦支持 "屏�
 
 本项目从 2023 年开始，至少会开发和维护十年，且是免费！
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402231450384.gif" width="100%"/>
+
+
+
+
+### 支持平台
+
+|               |                           Windows                            |                             MAC                              |                            Linux                             |
+| :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  **System**   | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143559.svg" width="160"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143771.svg" width="110"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182144420.svg" width="110"/> |
+|  **Version**  |                          7/8/10/11+                          |                      10.14/11/12/13/14+                      | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182324375.svg" width="26"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182232778.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231482.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231276.svg" width="31"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182241243.svg" width="80"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182251350.svg" width="30"/> |
+| **App Store** | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182326645.svg" width="42"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182312344.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182318441.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182320190.svg" width="40"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023115.svg" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023950.png" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182230495.svg" width="40"/> |
+
+
+
+Linux 发行版已经验证过的版本
+
+1. Ubuntu 22.04
+2. Debian 12
+3. Deepin 20.9/23+ (AMD64 / ARM64 / LOONGSON 龙芯)
+4. UOS 1010
+5. OpenKylin 1.01
+6. Kali 24.1
+7. etc.
 
 
 
