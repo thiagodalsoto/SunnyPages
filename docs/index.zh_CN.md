@@ -31,21 +31,31 @@
 
 ### 描述
 
-Sunny 是一款漂亮且实用的 "截图 & 钉图" 的软件，亦支持 "屏幕识图" 和 "OCR" 的软件，支持 Windows，MacOS，Linux 操作系统。
+Sunny 是一款简洁且实用的 "截图 & 钉图" 的软件，亦支持 "OCR" 和 "图片翻译" 的功能，支持 Windows，MacOS，Linux 操作系统。
 
 本项目从 2023 年开始，至少会开发和维护十年，且是免费！
 
 
 
+### 网址
+
+📢 **官网: ** [ https://sunny.xmuli.tech](https://sunny.xmuli.tech)   |   **作者：** [偕臧](https://github.com/XMuli)
+
+**网址:** [GitHub](https://github.com/XMuli/SunnyPages/releases)，[Gitee](https://gitee.com/XMuli/SunnyPages/releases)，[sourceforge](https://sourceforge.net/projects/sunnypages/) 
+
+**应用商店:**  微软商城 / 深度商店 / 统信商店 / 麒麟商店 / 星火商店 
+
+**反馈 & 建议:** 反馈 Bug，提出建议或期望新功能，留言于 [Issues](https://github.com/XMuli/SunnyPages/issues) ；亦或交流群：[![alt text](https://img.shields.io/badge/QQ_群-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
+
 
 
 ### 支持平台
 
-|               |                           Windows                            |                             MAC                              |                            Linux                             |
+|               |                           WINDOWS                            |                             MAC                              |                            LINUX                             |
 | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  **System**   | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143559.svg" width="160"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143771.svg" width="110"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182144420.svg" width="110"/> |
-|  **Version**  |                          7/8/10/11+                          |                      10.14/11/12/13/14+                      | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182324375.svg" width="26"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182232778.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231482.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231276.svg" width="31"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182241243.svg" width="80"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182251350.svg" width="30"/> |
-| **App Store** | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182326645.svg" width="42"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182312344.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182318441.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182320190.svg" width="40"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023115.svg" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023950.png" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182230495.svg" width="40"/> |
+|  **Version**  |                          7/8/10/11                           |                      10.14/11/12/13/14                       | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182324375.svg" width="26"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182232778.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231482.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231276.svg" width="31"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182241243.svg" width="80"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182251350.svg" width="30"/> |
+| **App Store** | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182326645.svg" width="42"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182312344.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182318441.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182320190.svg" width="40"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023115.svg" width="41"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023950.png" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182230495.svg" width="40"/> |
 
 
 
@@ -53,7 +63,7 @@ Linux 发行版已经验证过的版本
 
 1. Ubuntu 22.04
 2. Debian 12
-3. Deepin 20.9/23+ (AMD64 / ARM64 / LOONGSON 龙芯)
+3. Deepin 20.9/23 (AMD64 / ARM64 / LOONGSON 龙芯)
 4. UOS 1010
 5. OpenKylin 1.01
 6. Kali 24.1
@@ -61,13 +71,12 @@ Linux 发行版已经验证过的版本
 
 
 
-### 网址
+### 支持芯片
 
-**官网: ** [ https://sunny.xmuli.tech](https://sunny.xmuli.tech)   |   **作者：** [偕臧](https://github.com/XMuli)
-
-📢：[GitHub](https://github.com/XMuli/SunnyPages/releases)，   [Gitee](https://gitee.com/XMuli/SunnyPages/releases)，    [Issues](https://github.com/XMuli/SunnyPages/issues)  
-
-Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Store / Spark Store 反馈 Bug，提出建议或者想法，帮助改进亦可加入交流群：[![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
+|                       **ARCHITECTURE**                       |
+| :----------------------------------------------------------: |
+| <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191010865.svg" width="100"/>                                <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191011232.svg" width="127"/>                               <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191012862.svg" width="104"/> |
+| x86-64                                                  ARM64                                           LOONGSON |
 
 
 
@@ -87,7 +96,7 @@ Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Sto
 
 ### Windows
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272301064.png" width="48%"/>  <img src="index.zh_CN.assets/202312272303776.png" width="48%"/>  
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272301064.png" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272303776.png" width="48%"/>
 
 
 
@@ -106,6 +115,10 @@ Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Sto
 #### Deepin V20.9 / UOS
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
+
+#### Deepin V23 ARM64 & LOONGSON64（龙芯）
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404191949012.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404191950973.jpg" width="45%"/>
 
 #### Openkylin V1.0.1
 
@@ -155,8 +168,8 @@ Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Sto
 - **App Store 已上架**
   - Microsoft Store                     微软商店
   - Deepin / UOS Store              深度社区 / 统信商店
+  - openkylin Store                     麒麟商店
   - Spark Store                            星火商店
-  - openkylin Store                    麒麟商店
 
 <br>
 
@@ -222,9 +235,20 @@ Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Sto
 
 <br>
 
-## 帮助国际化：提交翻译文件
+## 国际化：提交翻译文件
 
 翻译文件，提交 PR  →  [*.ts](https://github.com/XMuli/SunnyPages/tree/master/translations)
+
+<br>
+
+## 鸣谢
+
+很开心，亦有帮助改进和移植的小伙伴，甚是感谢🙇‍
+
+- [shenmo](https://github.com/shenmo7192)：移植到 Deepin V23 的 ARM 和 Loongson64(龙芯) 平台
+- [spark-store](https://gitee.com/spark-store-project/spark-store) 团队：上架到星火应用商店
+- [XXTXTOP](http://www.xiongshijie.top/)：上架到麒麟商店
+- 等
 
 <br>
 

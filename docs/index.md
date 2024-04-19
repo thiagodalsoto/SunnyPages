@@ -31,6 +31,18 @@ This program will be developed and maintained for at least ten years starting in
 
 
 
+### Site
+
+📢**Official website:**  [https://sunny.xmuli.tech](https://sunny.xmuli.tech) |   **Author：** [偕臧](https://github.com/XMuli)
+
+**website:** [GitHub](https://github.com/XMuli/SunnyPages/releases)，[Gitee](https://gitee.com/XMuli/SunnyPages/releases)，[sourceforge](https://sourceforge.net/projects/sunnypages/) 
+
+**App Store:** Microsoft Store / Deepin Store / UOS Store / Openkylin Store / Spark Store 
+
+**Feedback & Suggest:** bug or new features, leave a message in [Issues](https://github.com/XMuli/SunnyPages/issues); or in the [![alt text](https://img.shields.io/badge/QQ_群-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
+
+
+
 ### Supported Operating Systems
 
 |               |                           Windows                            |                             MAC                              |                            Linux                             |
@@ -45,7 +57,7 @@ Verified versions of Linux distributions：
 
 1. Ubuntu 22.04
 2. Debian 12
-3. Deepin 20.9/23+ (AMD64 / ARM64 / LOONGSON)
+3. Deepin 20.9/23 (AMD64 / ARM64 / LOONGSON 龙芯)
 4. UOS 1010
 5. OpenKylin 1.01
 6. Kali 24.1
@@ -53,17 +65,16 @@ Verified versions of Linux distributions：
 
 
 
-### Site
+### Supported Chips
 
-**Official website:**  [https://sunny.xmuli.tech](https://sunny.xmuli.tech) |   **Author：** [偕臧](https://github.com/XMuli)
+|                       **ARCHITECTURE**                       |
+| :----------------------------------------------------------: |
+| <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191010865.svg" width="100"/>                                <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191011232.svg" width="127"/>                               <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191012862.svg" width="104"/> |
+| x86-64                                                  ARM64                                           LOONGSON |
 
-📢：[GitHub](https://github.com/XMuli/SunnyPages/releases)，   [Gitee](https://gitee.com/XMuli/SunnyPages/releases)，    [Issues](https://github.com/XMuli/SunnyPages/issues)  
 
-Download: App Store : Microsoft Store / Deepin Store / UOS Store / Openkylin Store / Spark Store 
 
-Feedback on bugs, suggestions or ideas to help improve and join the community: [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
 
-<br>
 
 ## Presentations Effect
 
@@ -101,6 +112,10 @@ Feedback on bugs, suggestions or ideas to help improve and join the community: [
 #### Deepin V20.9 / UOS
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
+
+#### Deepin V23 ARM64 & LOONGSON64
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404191949012.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404191950973.jpg" width="45%"/>
 
 #### Openkylin V1.0.1
 
@@ -220,6 +235,17 @@ as well as the three-way Starfire Store, also available for direct download;
 ## internalisation
 
 Translation of documents, submission of PR →  [*.ts](https://github.com/XMuli/SunnyPages/tree/master/translations)
+
+<br>
+
+## Acknowledgement 
+
+I'm very happy, there are also partners who help to improve, extremely grateful 🙇‍
+
+- [shenmo](https://github.com/shenmo7192): ported to Deepin V23 on ARM and Loongson64 platforms.
+- [spark-store](https://gitee.com/spark-store-project/spark-store) team: uploaded to spark-store.
+- [XXTXTOP](http://www.xiongshijie.top/): uploaded to Kirin Store
+- etc.
 
 <br>
 

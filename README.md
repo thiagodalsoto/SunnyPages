@@ -28,43 +28,52 @@ Sunny is a beautiful and useful "Screenshot & Pinning" software, also supports "
 
 This program will be developed and maintained for at least ten years starting in 2023 and is **free** of charge!
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402231450384.gif" width="100%"/>
 
-<br>
+
+### Site
+
+📢**Official website:**  [https://sunny.xmuli.tech](https://sunny.xmuli.tech) |   **Author：** [偕臧](https://github.com/XMuli)
+
+**website:** [GitHub](https://github.com/XMuli/SunnyPages/releases)，[Gitee](https://gitee.com/XMuli/SunnyPages/releases)，[sourceforge](https://sourceforge.net/projects/sunnypages/) 
+
+**App Store:** Microsoft Store / Deepin Store / UOS Store / Openkylin Store / Spark Store 
+
+**Feedback & Suggest:** bug or new features, leave a message in [Issues](https://github.com/XMuli/SunnyPages/issues); or in the [![alt text](https://img.shields.io/badge/QQ_群-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
+
+
 
 ### Supported Operating Systems
 
-|               |                           WINDOWS                            |                             MAC                              |                            LINUX                             |
+|               |                           Windows                            |                             MAC                              |                            Linux                             |
 | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  **System**   | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143559.svg" width="160"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182143771.svg" width="110"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182144420.svg" width="110"/> |
 |  **Version**  |                          7/8/10/11+                          |                      10.14/11/12/13/14+                      | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182324375.svg" width="26"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182232778.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231482.svg" width="30"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182231276.svg" width="31"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182241243.svg" width="80"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182251350.svg" width="30"/> |
 | **App Store** | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182326645.svg" width="42"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182312344.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182318441.svg" width="40"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182320190.svg" width="40"/> | <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023115.svg" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404190023950.png" width="40"/><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404182230495.svg" width="40"/> |
 
-<br>
+
 
 Verified versions of Linux distributions：
 
 1. Ubuntu 22.04
 2. Debian 12
-3. Deepin 20.9/23+ (AMD64 / ARM64 / LOONGSON)
+3. Deepin 20.9/23 (AMD64 / ARM64 / LOONGSON 龙芯)
 4. UOS 1010
 5. OpenKylin 1.01
 6. Kali 24.1
 7. etc.
 
-<br>
 
-### Site
 
-**Official website:**  [https://sunny.xmuli.tech](https://sunny.xmuli.tech) |   **Author：** [偕臧](https://github.com/XMuli)
+### Supported Chips
 
-📢：[GitHub](https://github.com/XMuli/SunnyPages/releases)，   [Gitee](https://gitee.com/XMuli/SunnyPages/releases)，    [Issues](https://github.com/XMuli/SunnyPages/issues)  
+|                       **ARCHITECTURE**                       |
+| :----------------------------------------------------------: |
+| <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191010865.svg" width="100"/>                                <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191011232.svg" width="127"/>                               <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202404191012862.svg" width="104"/> |
+| x86-64                                                  ARM64                                           LOONGSON |
 
-Download: App Store : Microsoft Store / Deepin Store / UOS Store / Spark Store 
 
-Feedback on bugs, suggestions or ideas to help improve and join the community: [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
 
-<br>
+
 
 ## Presentations Effect
 
@@ -89,7 +98,7 @@ Feedback on bugs, suggestions or ideas to help improve and join the community: [
 
 ### MacOS
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010038655.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010037565.jpg" width="48%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010038655.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010037565.jpg" width="50%"/>
 
 
 
@@ -97,11 +106,15 @@ Feedback on bugs, suggestions or ideas to help improve and join the community: [
 
 #### Ubuntu 22.04
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202403010947701.jpg" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202403010947718.jpg" width="45%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272304154.png" width="45%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305584.png" width="45%"/>
 
 #### Deepin V20.9 / UOS
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305050.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312272305129.jpg" width="45%"/>
+
+#### Deepin V23 ARM64 & LOONGSON64
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404191949012.jpg" width="45%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202404191950973.jpg" width="45%"/>
 
 #### Openkylin V1.0.1
 
@@ -210,15 +223,28 @@ Direct download from the software store， Thanks to [XXTXTOP](www.xiongshijie.t
 
 ### Spark Store
 
-as well as the three-way Starfire Store, also available for direct download
+as well as the three-way Starfire Store, also available for direct download; 
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010053091.png" width="80%"/>
+
+
 
 <br>
 
 ## internalisation
 
 Translation of documents, submission of PR →  [*.ts](https://github.com/XMuli/SunnyPages/tree/master/translations)
+
+<br>
+
+## Acknowledgement 
+
+I'm very happy, there are also partners who help to improve, extremely grateful 🙇‍
+
+- [shenmo](https://github.com/shenmo7192): ported to Deepin V23 on ARM and Loongson64 platforms.
+- [spark-store](https://gitee.com/spark-store-project/spark-store) team: uploaded to spark-store.
+- [XXTXTOP](http://www.xiongshijie.top/): uploaded to Kirin Store
+- etc.
 
 <br>
 
@@ -253,6 +279,16 @@ Of all the software written, the total number of downloads is not the largest, b
 <br>
 
 ## 截图作品系列
+
+
+
+|  项目   |                             描述                             |                           开发经验                           |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  ShotX  |                      功能极简的截图工具                      |           简易，新手级的截图，适合初学 Qt/C++ 入门           |
+| FLIPPED |   简洁且漂亮，功能完整的截图软件；隐私安全，无任何联网功能   | 高级难度，属 Qt/C++ 数年经验的进阶作品，在借鉴同类作品的代码时，可于探索中独立完成的一个大的软件 |
+|  Sunny  | 一款简洁且漂亮的截图的软件工具。亦支持图片翻译和OCR；已上架微软商店，深度/统信商店，及三方的星火商店等 | 专业级作品，适合已多年沉浸研究 Qt/C++ 经验，随心所欲写任意所需功能，**属于商业级的成熟作品，是本截图系列的最高水准之作** |
+
+<br>
 
 很久之前就想些一个软件截图的软件，目前一共写如下三个层级的难度作品，提供大家参考
 
