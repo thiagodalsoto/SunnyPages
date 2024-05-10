@@ -17,9 +17,6 @@ hero:
       text: Functions
       link: ./article/feature
     - theme: alt
-      text: Feedback
-      link: https://github.com/XMuli/SunnyPages/issues
-    - theme: alt
       text: Acknowledgement
       link: article/acknowledgement
 
@@ -65,8 +62,3 @@ features:
       light: /images/home/appstore.svg
       dark:  /images/home/appstore_blue.svg
 ---
-
-<br>
-
-### Supported Chips
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202405101237803.png" width="65%"/>

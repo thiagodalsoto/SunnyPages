@@ -14,14 +14,11 @@ hero:
       text: 官网下载
       link: https://github.com/XMuli/SunnyPages/releases
     - theme: alt
-      text: 反馈体验
-      link: https://github.com/XMuli/SunnyPages/issues
+      text: 鸣谢
+      link: article/acknowledgement_zh
     - theme: alt
       text: QQ 内测群:418103279
       link: https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0
-    - theme: alt
-      text: 鸣谢
-      link: article/acknowledgement_zh
 
 features:
   - title: OCR
@@ -60,13 +57,8 @@ features:
       light: /images/home/linux.svg
       dark:  /images/home/linux_blue.svg
   - title: App Store
-    details: 微软商店 / 深度 / 统信 / 麒麟 / 星火商城
+    details: 微软商店 / 深度 / 统信 / 麒麟 / 星火商店
     icon: 
       light: /images/home/appstore.svg
       dark:  /images/home/appstore_blue.svg
 ---
-
-<br>
-
-### 支持芯片架构
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202405101239031.png" width="65%"/>
