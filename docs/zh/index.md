@@ -3,49 +3,49 @@
 layout: home
 
 hero:
-  name: "Sunny Screenshot"
-  # text: "Text"
-  tagline: "Screenshot / Pinning / OCR / Image Translation"
+  name: "Sunny 截图"
+  # text: "Free"
+  tagline: "截图 / 钉图 / 提取文字 / 图片翻译 / 多主题 / ..."
   image:
     src: /images/logo/home.jpg
     alt: Sunny Screenshot
   actions:
     - theme: brand
-      text: Download
+      text: 官网下载
       link: https://github.com/XMuli/SunnyPages/releases
     - theme: alt
-      text: Functions
-      link: ./article/feature
-    - theme: alt
-      text: Feedback
+      text: 反馈体验
       link: https://github.com/XMuli/SunnyPages/issues
     - theme: alt
-      text: Acknowledgement
-      link: article/acknowledgement
+      text: QQ 内测群:418103279
+      link: https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0
+    - theme: alt
+      text: 鸣谢
+      link: article/acknowledgement_zh
 
 features:
   - title: OCR
-    details: Extract text and symbols from images, preserving formatting
+    details: 从图片提取文字和符号，保留格式
     icon: 
       light: /images/home/ocr.svg
       dark:  /images/home/ocr_blue.svg
-  - title: Image Translation
-    details: Translate images into more than twenty languages
+  - title: 图片翻译
+    details: 图片翻译为二十多种语言
     icon: 
       light: /images/home/image_translation.svg
       dark:  /images/home/image_translation_blue.svg
-  - title: Capture Screen
-    details: Screenshots and basic drawing marks
+  - title: 截图 & 绘画标注
+    details: 自动检测窗口，基本绘画标注等
     icon: 
       light: /images/home/edit.svg
       dark:  /images/home/edit_blue.svg
   - title: Pinning
-    details: Picture temporarily pinned to monitor desktop
+    details: 截图后钉在屏幕
     icon: 
       light: /images/home/pinning.svg
       dark:  /images/home/pinning_blue.svg
   - title: Windows
-    details: 7/8/10/11 (support 32 & 64 bit)
+    details: 7/8/10/11 （支持 32/64 位）
     icon: 
       light: /images/home/windows.svg
       dark:  /images/home/windows_blue.svg
@@ -60,7 +60,7 @@ features:
       light: /images/home/linux.svg
       dark:  /images/home/linux_blue.svg
   - title: App Store
-    details: Microsoft Store / Deepin / UOS / Openkylin / Spark Store
+    details: 微软商店 / 深度 / 统信 / 麒麟 / 星火商城
     icon: 
       light: /images/home/appstore.svg
       dark:  /images/home/appstore_blue.svg
@@ -68,5 +68,5 @@ features:
 
 <br>
 
-### Supported Chips
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202405101237803.png" width="65%"/>
+### 支持芯片架构
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202405101239031.png" width="65%"/>
