@@ -28,7 +28,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: '⚔Platform', link: '/article/supportp_latform' },  // 文件夹不指定则默认加载 index.md
+      { text: '⚔Platform', link: '/article/supportp_platform' },  // 文件夹不指定则默认加载 index.md
       { text: 'Feedback', link: '/article/suggest_feedback' },
       {
         text: 'Docs', items: [

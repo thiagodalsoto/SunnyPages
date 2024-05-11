@@ -12,7 +12,9 @@
 
 　　💻  `Win10 22H2` 📎 `Qt 5.15.x` 📎  `Visual Studio 2022` 📎 `C++17`
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402281723559.png" width="70%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112034475.png" width="100%"/>
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402281723559.png" width="80%"/>
 
 <br>
 

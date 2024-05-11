@@ -78,29 +78,20 @@ The following platforms have been verified to run successfully, lower versions h
 ## App Store Download
 
 ### Microsoft Store
-On Window 10/11+ systems, also available for direct download from the Microsoft Store
-
+On Window 10/11, also available for direct download from the Microsoft Store
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402231450384.gif" width="80%"/>
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010108405.gif" width="80%"/>
 
-<br>
-
 ### Deepin / UOS Store
-The Deep Community, UOS Store, is now available for direct download.
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016686.png" width="80%"/>
+The Deepin or UOS Store, download it directly from the this store.
+<img src="/snapshot/Deepin_Store.jpg" width="80%"/><br>
 
 ### Openkylin Store
-Download it directly from the this store. Thanks to XXTXTOP www.xiongshijie.top for helping to stock this Openkylin Store.
+Download it directly from the this store.
+<img src="/snapshot/Openkylin_Store.jpg" width="80%"/><br>
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403012303610.jpg" width="80%"/>
 
 ### Spark Store
 Download it directly from the this store. 
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010053091.png" width="80%"/>
-
-
-
-<br>
+<img src="/snapshot/Spark_Store.jpg" width="80%"/><br>

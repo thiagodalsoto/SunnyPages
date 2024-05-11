@@ -1,12 +1,23 @@
+
 # Acknowledgments
+I'm very happy, There are these contributors to help improve this software, extremely grateful 🙇‍
+<br><br>
 
-> With the help of contributors, this software has received a lot of help, and bug fixes, thank you all very much 🙇‍.
+#### i18n
+- [Thiago Dalsoto](https://github.com/thiagodalsoto): Portuguese-Spanish translation.
+<br><br>
 
-- Thanks to [Thiago Dalsoto](https://github.com/thiagodalsoto) for the Portuguese-Spanish translation.
+#### Linux
+- [shenmo](https://github.com/shenmo7192): ported to Deepin V23 on ARM and Loongson64 platforms.
+- [spark-store Teams](https://gitee.com/spark-store-project/spark-store) : Help with the Spark Store
+<br><br>
 
-- Thanks to [shenmo](https://github.com/shenmo7192) and the [Spark-Store](https://gitee.com/spark-store-project/spark-store) team for their help and support in porting it to ARM and Longxin architectures. It can also be downloaded directly from the Spark Store
-`sunny_1.5.0_arm64.deb`, `sunny_1.5.0_loong64.deb` This architecture is only supported on deepin V23 and Debian platforms;
+#### App Store
+- [XXTXTOP](http://www.xiongshijie.top/): Help with the Openkylin Store
+<br><br>
 
-- Thanks to [XXTXTOP](http://www.xiongshijie.top/) for helping to make it available on the Openkylin Store! This Linux distribution is now also available for download!
+#### Other
+- [bbs Exchange Groups](https://txc.qq.com/products/649489): Suggestions for optimization of the experience, and bug feedback
+- [QQ Group: 418103279](https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0): Suggestions for optimization of the experience, and bug feedback
+- etc.
 
-- [QQ 群: 418103279](https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=) OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0), and the rest of the community, thank you!

@@ -1,12 +1,24 @@
 # 鸣谢
 
-> 在贡献者们的帮助下，本软件得到很多帮助和提升，和建议和bug的反馈，非常感谢大家🙇‍。
+# Acknowledgments
+感觉到开心呀~，有如下的贡献者们在帮助改进这个软件，甚是感谢 🙇‍
+<br><br>
 
-- 感谢  [Thiago Dalsoto](https://github.com/thiagodalsoto) 提供 Portuguese-Spanish 语言的翻译
+#### 国际化
+- [Thiago Dalsoto](https://github.com/thiagodalsoto): 提供 葡萄牙-巴西 语言翻译
+<br><br>
 
-- 感谢 [shenmo](https://github.com/shenmo7192) 以及 [Spark-Store](https://gitee.com/spark-store-project/spark-store) 团队的帮助和支持，将其移植到 ARM 和 龙芯 架构平台，亦可直接在星火商店下载
-`sunny_1.5.0_arm64.deb`, `sunny_1.5.0_loong64.deb` 此架构仅支持 deepin V23、Debian 系的平台；
+#### Linux
+- [shenmo](https://github.com/shenmo7192): 移植到 ARM64 和 Loongson64 平台上的 Deepin V23，可成功运行
+- [spark-store Teams](https://gitee.com/spark-store-project/spark-store) : 帮助上架星火商店
+<br><br>
 
-- 感谢 [XXTXTOP](http://www.xiongshijie.top/) 帮助上架 Openkylin Store 麒麟商店！此 Linux 发行版也可直接下载了
+#### App Store
+- [XXTXTOP](http://www.xiongshijie.top/): 帮助上架麒麟商店
+<br><br>
 
-- [QQ群: 418103279](https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0) 的所有的内测成员，以及其他人等，表示感谢
+#### Other
+- [bbs Exchange Groups](https://txc.qq.com/products/649489): 用户体验上的建议和优化，及反馈 bug
+- [QQ Group: 418103279](https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0): 同上
+- 等...
+
