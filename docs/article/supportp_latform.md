@@ -15,9 +15,11 @@
 
 <br>
 
-## Validated
-
+## Validated Architecture
+::: info
 The following platforms have been verified to run successfully, lower versions have not been verified, but this does not mean that they cannot run.
+:::
+
 
 ### Verified versions of Linux distributions：
 1. Ubuntu 22.04 / 22.04
@@ -31,11 +33,15 @@ The following platforms have been verified to run successfully, lower versions h
 
 ### Validated chip architecture versions:
 
-### **『AMD64』** Most platform: Windows / Linux / MacOS
+## 『AMD64』
+
+::: tip
+『AMD64』 Most platform: Windows / Linux / MacOS
+:::
 
 ### ⚔ WINDOWS
-<img src="/snapshot/Windows10.jpg" width="100%"/><br>
-<img src="/snapshot/Windows10_2.jpg" width="100%"/><br>
+<img src="/snapshot/Windows11.jpg" width="100%"/><br>
+<img src="/snapshot/Windows11_2.jpg" width="100%"/><br>
 
 ### ⚔ MACOS 
 <img src="/snapshot/MacOS13.jpg" width="100%"/><br>
@@ -49,7 +55,7 @@ The following platforms have been verified to run successfully, lower versions h
 <img src="/snapshot/Ubuntu22.04.jpg" width="100%"/><br>
 <img src="/snapshot/Ubuntu22.04_2.jpg" width="100%"/><br>
 
-### ⚔ LINUX: Deepin 20-30 / UOS
+### ⚔ LINUX: Deepin 20-23 / UOS
 <img src="/snapshot/Deepinv20.9.jpg" width="100%"/><br>
 <img src="/snapshot/Deepinv23_2.jpg" width="100%"/><br>
 
@@ -57,8 +63,44 @@ The following platforms have been verified to run successfully, lower versions h
 <img src="/snapshot/OpenKyli1.0.1.jpg" width="100%"/><br>
 <img src="/snapshot/OpenKyli1.0.1_2.jpg" width="100%"/><br>
 
-### 『ARM64』DeepinV23
+## 『ARM64』
+::: tip
+『ARM64』Deepin V23
+:::
 <img src="/snapshot/ARM64_Deepin_V23.jpg" width="100%"/><br>
 
-### 『LOONGSON 龙芯』DeepinV23
+## 『LOONGSON 龙芯』
+::: tip
+『LOONGSON 龙芯』Deepin V23
+:::
   <img src="/snapshot/Loongson_Deepin_V23.jpg" width="100%"/><br>
+
+## App Store Download
+
+### Microsoft Store
+On Window 10/11+ systems, also available for direct download from the Microsoft Store
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202402231450384.gif" width="80%"/>
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010108405.gif" width="80%"/>
+
+<br>
+
+### Deepin / UOS Store
+The Deep Community, UOS Store, is now available for direct download.
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402190016686.png" width="80%"/>
+
+### Openkylin Store
+Download it directly from the this store. Thanks to XXTXTOP www.xiongshijie.top for helping to stock this Openkylin Store.
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403012303610.jpg" width="80%"/>
+
+### Spark Store
+Download it directly from the this store. 
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202403010053091.png" width="80%"/>
+
+
+
+<br>

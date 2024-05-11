@@ -32,8 +32,8 @@ export default defineConfig({
       { text: 'Feedback', link: '/article/suggest_feedback' },
       {
         text: 'Docs', items: [
+          { text: 'Development Experience', link: '/article/how_develop_it' },
           { text: 'Change Log', link: 'https://txc.qq.com/products/649489/change-log' },
-          // { text: 'Suggest & Feedback', link: 'https://txc.qq.com/products/649489' },
           // { text: 'Wiki', link: 'https://github.com/XMuli/SunnyPages/wiki' },
         ],
       },
@@ -71,6 +71,7 @@ export default defineConfig({
     socialLinks: [
       // { icon: 'twitter', link: 'https://twitter.com/xmulite' },
       { icon: 'github', link: 'https://github.com/XMuli' },
+      { icon: 'discord', link: 'https://discord.gg/4TQkfh79gN' },
     ],
 
     // footer: {

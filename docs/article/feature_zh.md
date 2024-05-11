@@ -1,3 +1,14 @@
+# 介绍
+[[toc]]
+
+## 简述
+Sunny 是一款简洁且实用的 "截图 & 钉图" 的软件，支持"OCR"和"图片翻译"的功能，支持 Windows，MacOS，Linux 操作系统。
+本项目从 2023 年开始，至少会开发和维护十年！
+
+[<img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=version" alt="tags"/>](https://github.com/XMuli/SunnyPages/releases)
+
+[<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />](https://github.com/XMuli/SunnyPages/releases)
+
 ## 功能特色
 
 - **特色功能**
@@ -30,10 +41,10 @@
   - Deepin / UOS V20.9 - 23+
   - openkylin V1.0.1+
 - **App Store 已上架**
-  - Microsoft Store                     微软商店
-  - Deepin / UOS Store              深度社区 / 统信商店
-  - openkylin Store                     麒麟商店
-  - Spark Store                            星火商店
+  - 微软商店
+  - 深度/统信商店
+  - 麒麟商店
+  - 星火商店
 
 <br>
 
@@ -53,3 +64,9 @@
 | <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | 外扩选中区域 10 px                                | 本地 |
 | <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | 内缩选中区域 10 px                                | 本地 |
 
+<br>
+
+## 代码签名证书 🎉
+> 极力推荐从 GitHub [Release](https://github.com/XMuli/SunnyPages/releases) 下载，更新最快最稳定。下载文件后，文件右键属性校验其唯一性，确保文件没被篡改；
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>

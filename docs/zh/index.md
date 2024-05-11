@@ -14,10 +14,13 @@ hero:
       text: 官网下载
       link: https://github.com/XMuli/SunnyPages/releases
     - theme: alt
+      text: 特色功能
+      link: article/feature_zh
+    - theme: alt
       text: 鸣谢
       link: article/acknowledgement_zh
     - theme: alt
-      text: QQ 内测群:418103279
+      text: QQ 内测群
       link: https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0
 
 features:

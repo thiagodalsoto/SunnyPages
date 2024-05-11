@@ -1,8 +1,17 @@
+# Introduce
+[[toc]]
+
+## Describe
+Sunny is a beautiful and useful "Screenshot & Pinning" software, also supports "OCR" and "Image Translate" software, supports Windows, MacOS, Linux operating systems.
+
+This program will be developed and maintained for at least ten years starting in 2023 and is **free** of charge!
+
+[<img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=version" alt="tags"/>](https://github.com/XMuli/SunnyPages/releases)
+
+[<img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />](https://github.com/XMuli/SunnyPages/releases)
 
 
-
-
-### Featured Functions
+## Featured Functions
 
 - **Featured Functions**
   - Screenshots & Pins
@@ -41,7 +50,7 @@
 
 <br>
 
-### Keyboard shortcuts
+## Keyboard shortcuts
 
 | Keys                                                         | Description                                                  | Mode   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
@@ -57,3 +66,7 @@
 | <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px                                     | Local  |
 | <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px                                       | Local  |
 
+## Code Signing Certificate 🎉
+> Downloading from GitHub [Release](https://github.com/XMuli/SunnyPages/releases) is highly recommended for the fastest and most stable updates. After downloading the file, right-click on the file's properties to verify its uniqueness and make sure the file has not been tampered with;
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>
