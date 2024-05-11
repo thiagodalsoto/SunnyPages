@@ -40,8 +40,8 @@ This program will be developed and maintained for at least ten years starting in
 - **Cross-platform porting**
   - Windows 7 / 8 / 10 / 11
   - Ubuntu 20.04 / 22.04 / 24.04
-  - Deepin / UOS V20 - 23
-  - openkylin V1.0.x
+  - Deepin / UOS 20-23
+  - openkylin 1.0.x
 - **App Store**
   - Microsoft Store 
   - Deepin / UOS Store 

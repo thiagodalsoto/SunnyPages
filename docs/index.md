@@ -15,10 +15,10 @@ hero:
       link: https://github.com/XMuli/SunnyPages/releases
     - theme: alt
       text: Functions
-      link: article/feature
+      link: ./feature
     - theme: alt
       text: Acknowledgement
-      link: article/acknowledgement
+      link: ./acknowledgement
     - theme: alt
       text: QQ Group
       link: https://qm.qq.com/cgi-bin/qm/qr?authKey=5pYNrJL7%2F8biKzT5LMj8dbjkpPvUvdLVbAOcNTydiqTDNc49yg0wtVcub8Cu3Pqa&k=OluWZhjVMhwP-6RO9Y7FFkJcXGiS4CVk&noverify=0

@@ -53,17 +53,23 @@ export default defineConfig({
       {
         text: 'Catalogue',
         items: [
-          { text: 'Feature', link: '/article/feature' },
-          { text: 'Acknowledgement', link: '/article/acknowledgement' },
-          { text: 'Development experience', link: '/article/index' },
+          { text: 'Download', link: 'https://github.com/XMuli/SunnyPages/releases' },
+          { text: 'Feature', link: '/feature' },
+          { text: 'Platform', link: '/article/supportp_platform' },
+          { text: 'Feedback', link: '/article/suggest_feedback' },
+          { text: 'Development Experience', link: '/article/how_develop_it' },
+          { text: 'Acknowledgement', link: '/acknowledgement' },
         ]
       },
       {
         text: '目录',
         items: [
-          { text: '功能', link: '/article/feature_zh' },
-          { text: '鸣谢', link: '/article/acknowledgement_zh' },
-          { text: '开发', link: '/article/index' },
+          { text: '官网下载', link: 'https://github.com/XMuli/SunnyPages/releases' },
+          { text: '特色功能', link: '/feature' },
+          { text: '架构平台', link: '/article/supportp_platform' },
+          { text: '建议反馈', link: '/article/suggest_feedback' },
+          { text: '开发经验', link: '/article/how_develop_it' },
+          { text: '鸣    谢', link: '/acknowledgement' },
         ]
       }
     ],
