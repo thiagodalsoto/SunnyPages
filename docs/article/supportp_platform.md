@@ -56,7 +56,7 @@ The following platforms have been verified to run successfully, lower versions h
 <img src="/snapshot/Ubuntu22.04_2.jpg" width="100%"/><br>
 
 ### ⚔ LINUX: Deepin 20-23 / UOS
-<img src="/snapshot/Deepinv20.9.jpg" width="100%"/><br>
+<img src="/snapshot/Deepinv23.jpg" width="100%"/><br>
 <img src="/snapshot/Deepinv23_2.jpg" width="100%"/><br>
 
 ### ⚔ LINUX: Openkylin V1.0.2
