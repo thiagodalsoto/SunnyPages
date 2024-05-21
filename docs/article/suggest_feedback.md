@@ -12,6 +12,6 @@ If you have any suggestions for new features, feedback on bugs, participation in
 
 ### 中文
 
-- [bbs 交流反馈](https://txc.qq.com/products/649489)
+- [中文讨论组，推荐](https://txc.qq.com/products/649489)
 -  [![alt text](https://img.shields.io/badge/QQ_群-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
 

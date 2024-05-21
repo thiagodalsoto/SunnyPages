@@ -83,7 +83,7 @@ This program will be developed and maintained for at least ten years starting in
 
 ### MacOS
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112043793.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112043296.jpg" width="48%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405231912132.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405231913913.jpg" width="48%"/>
 
 
 
@@ -146,10 +146,10 @@ This program will be developed and maintained for at least ten years starting in
   - Internationalized translation
   - Open Source Library Acknowledgment
 - **Cross-platform porting**
-  - Windows 7 / 8 / 10 / 11+
-  - Ubuntu 20.04 / 22.04+
-  - Deepin / UOS V20.9 - 23+
-  - openkylin V1.0.1+
+  - Windows 7 / 8 / 10 / 11
+  - Ubuntu 20.04 / 22.04 / 24.04
+  - Deepin / UOS V20 - 23
+  - openkylin V1.0.x
 - **App Store 已上架**
   - Microsoft Store                       微软商店
   - Deepin / UOS Store               深度/统信商店
