@@ -1,763 +1,766 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="de">
 <context>
-    <name>Über</name>
+    <name>About</name>
     <message>
-        <source>Lizenzen</source>
-        <translation type="finished"></translation>
+        <source>Licenses</source>
+        <translation>Lizenzen</translation>
     </message>
     <message>
         <source>System Info</source>
-        <translation type="finished"></translation>
+        <translation>System Info</translation>
     </message>
     <message>
         <source>Copyright (C) 2023~2024 sunny.xmuli.tech</source>
-        <translation type="finished"></translation>
+        <translation>Copyright (C) 2023~2024 sunny.xmuli.tech</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://sunny.xmuli.tech&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Website&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="finished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://sunny.xmuli.tech&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Website&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/releases&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Download&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="finished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/releases&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Download&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Author&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="finished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/XMuli&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Author&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feedback: &amp;nbsp;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Issues&lt;/span&gt;&lt;/a&gt; &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://txc.qq.com/products/649489&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Discussion &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="finished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feedback: &amp;nbsp;&lt;a href=&quot;https://github.com/XMuli/SunnyPages/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Issues&lt;/span&gt;&lt;/a&gt; &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://txc.qq.com/products/649489&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#008000;&quot;&gt;Discussion &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="finished"></translation>
+        <translation>Version</translation>
     </message>
 </context>
 <context>
     <name>AboutInfo</name>
     <message>
         <source>System Info</source>
-        <translation type="finished"></translation>
+        <translation>System Info</translation>
     </message>
     <message>
         <source>CPU</source>
-        <translation type="finished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <source>Qt Version</source>
-        <translation type="finished"></translation>
+        <translation>Qt Version</translation>
     </message>
     <message>
         <source>Edition</source>
-        <translation type="finished"></translation>
+        <translation>Edition</translation>
     </message>
     <message>
-        <source>Build Zeit</source>
-        <translation type="finished"></translation>
+        <source>Build Time</source>
+        <translation>Build Zeit</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="finished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
-        <source>Arbeitsspeicher</source>
-        <translation type="finished"></translation>
+        <source>Memory</source>
+        <translation>Arbeitsspeicher</translation>
     </message>
     <message>
         <source>Build Kits</source>
-        <translation type="finished"></translation>
+        <translation>Build Kits</translation>
     </message>
     <message>
-        <source>Projekt</source>
-        <translation type="finished"></translation>
+        <source>Project</source>
+        <translation>Projekt</translation>
     </message>
     <message>
-        <source>Kopieren</source>
-        <translation type="finished"></translation>
+        <source>Copy</source>
+        <translation>Kopieren</translation>
     </message>
     <message>
-        <source>Detailliert</source>
-        <translation type="finished"></translation>
+        <source> Detailed</source>
+        <translation> Detailliert</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
-        <source>wähle eine Farbe</source>
-        <translation type="finished"></translation>
+        <source>select color</source>
+        <translation>wähle eine Farbe</translation>
     </message>
 </context>
 <context>
-    <name>Allgemein</name>
+    <name>General</name>
     <message>
         <source>Autostart</source>
-        <translation type="finished"></translation>
+        <translation>Autostart</translation>
     </message>
     <message>
-        <source>Protokollebene:</source>
-        <translation type="finished"></translation>
+        <source>Log Level:</source>
+        <translation>Protokollebene:</translation>
     </message>
     <message>
-        <source>Schriftart:</source>
-        <translation type="finished"></translation>
+        <source>Font:</source>
+        <translation>Schriftart:</translation>
     </message>
     <message>
-        <source>Sprache:</source>
-        <translation type="finished"></translation>
+        <source>Language:</source>
+        <translation>Sprache:</translation>
     </message>
     <message>
-        <source>Darstellung:</source>
-        <translation type="finished"></translation>
+        <source>Themes:</source>
+        <translation>Darstellung:</translation>
     </message>
     <message>
-        <source>Wähle eine Schriftart</source>
-        <translation type="finished"></translation>
+        <source>Select Font</source>
+        <translation>Wähle eine Schriftart</translation>
     </message>
 </context>
 <context>
     <name>Hotkeys</name>
     <message>
-        <source>Aufnahme:</source>
-        <translation type="finished"></translation>
+        <source>Capture:</source>
+        <translation>Aufnahme:</translation>
     </message>
     <message>
-        <source>Verzögerte Aufnahme:</source>
-        <translation type="finished"></translation>
+        <source>Delay capture:</source>
+        <translation>Verzögerte Aufnahme:</translation>
     </message>
     <message>
-        <source>Benutzerdefinierte Aufnahme:</source>
-        <translation type="finished"></translation>
+        <source>Custom capture:</source>
+        <translation>Benutzerdefinierte Aufnahme:</translation>
     </message>
     <message>
-        <source>Texterkennung:</source>
-        <translation type="finished"></translation>
+        <source>OCR:</source>
+        <translation>Texterkennung:</translation>
     </message>
     <message>
-        <source>Bild Übersetzung:</source>
-        <translation type="finished"></translation>
+        <source>Image translate:</source>
+        <translation>Bild Übersetzung:</translation>
     </message>
 </context>
 <context>
     <name>ImageTranslateDlg</name>
     <message>
-        <source>Bild Übersetzung</source>
-        <translation type="finished"></translation>
+        <source>Image Translation</source>
+        <translation>Bild Übersetzung</translation>
     </message>
     <message>
-        <source>Zu</source>
-        <translation type="finished"></translation>
+        <source>To</source>
+        <translation>Zu</translation>
     </message>
 </context>
 <context>
-    <name>Bildanzeige</name>
+    <name>ImageView</name>
     <message>
-        <source>Bild laden</source>
-        <translation type="finished"></translation>
+        <source>Load Image</source>
+        <translation>Bild laden</translation>
     </message>
     <message>
-        <source>Reinzoomen</source>
-        <translation type="finished"></translation>
+        <source>Zoom In</source>
+        <translation>Reinzoomen</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="finished"></translation>
+        <translation>Zoom Out</translation>
     </message>
     <message>
-        <source>Voreinstellung</source>
-        <translation type="finished"></translation>
+        <source>Preset</source>
+        <translation>Voreinstellung</translation>
     </message>
     <message>
         <source>Zoom: %1%</source>
-        <translation type="finished"></translation>
+        <translation>Zoom: %1%</translation>
     </message>
     <message>
-        <source>Bilder (*.png *.bpm *.jpg)</source>
-        <translation type="finished"></translation>
+        <source>Images (*.png *.bpm *.jpg)</source>
+        <translation>Bilder (*.png *.bpm *.jpg)</translation>
     </message>
 </context>
 <context>
-    <name>Oberfläche</name>
+    <name>Interface</name>
     <message>
-        <source>Personalisierung</source>
-        <translation type="finished"></translation>
+        <source>Personalization</source>
+        <translation>Personalisierung</translation>
     </message>
     <message>
-        <source>Fadenkreuz:</source>
-        <translation type="finished"></translation>
+        <source>Crosshair:</source>
+        <translation>Fadenkreuz:</translation>
     </message>
     <message>
-        <source>Markierung:</source>
-        <translation type="finished"></translation>
+        <source>Highlight:</source>
+        <translation>Markierung:</translation>
     </message>
     <message>
-        <source>Rahmenbreite:</source>
-        <translation type="finished"></translation>
+        <source>Border Width:</source>
+        <translation>Rahmenbreite:</translation>
     </message>
     <message>
-        <source>Stil:</source>
-        <translation type="finished"></translation>
+        <source>Style:</source>
+        <translation>Stil:</translation>
     </message>
     <message>
-        <source>Fadenkreuzbreite:</source>
-        <translation type="finished"></translation>
+        <source>Crosshair Width:</source>
+        <translation>Fadenkreuzbreite:</translation>
     </message>
     <message>
-        <source>Ausrichtung:</source>
-        <translation type="finished"></translation>
+        <source>Orientation:</source>
+        <translation>Stil:</translation>
     </message>
     <message>
-        <source>Benutzerdefinierte Aufnahmegröße</source>
-        <translation type="finished"></translation>
+        <source>Custom capture size</source>
+        <translation>Benutzerdefinierte Aufnahmegröße</translation>
     </message>
     <message>
         <source>,</source>
-        <translation type="finished"></translation>
+        <translation>,</translation>
     </message>
     <message>
-        <source>Oben links:</source>
-        <translation type="finished"></translation>
+        <source>Top left:</source>
+        <translation>Oben links:</translation>
     </message>
     <message>
-        <source>Größe:</source>
-        <translation type="finished"></translation>
+        <source>Size:</source>
+        <translation>Größe:</translation>
     </message>
     <message>
-        <source>Verzögerung:</source>
-        <translation type="finished"></translation>
+        <source>Delay:</source>
+        <translation>Verzögerung:</translation>
     </message>
     <message>
         <source>x</source>
-        <translation type="finished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="finished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="finished"></translation>
+        <translation>px</translation>
     </message>
     <message>
-        <source>Acryl Effekt</source>
-        <translation type="finished"></translation>
+        <source>Acrylic effect</source>
+        <translation>Acryl Effekt</translation>
     </message>
     <message>
-        <source>Fenster automatisch erkennen</source>
-        <translation type="finished"></translation>
+        <source>Auto detect windows</source>
+        <translation>Fenster automatisch erkennen</translation>
     </message>
     <message>
-        <source>Automatisch in Zwischenablage kopieren</source>
-        <translation type="finished"></translation>
+        <source>Auto copy to clipboard</source>
+        <translation>Automatisch in Zwischenablage kopieren</translation>
     </message>
     <message>
-        <source>Fadenkreuz anzeigen</source>
-        <translation type="finished"></translation>
+        <source>Crosshair show</source>
+        <translation>Fadenkreuz anzeigen</translation>
     </message>
 </context>
 <context>
-    <name>LizenzUI</name>
+    <name>LicenseUI</name>
     <message>
-        <source>Open Source Lizenzen</source>
-        <translation type="finished"></translation>
+        <source>Open source licenses</source>
+        <translation>Open Source Lizenzen</translation>
     </message>
     <message>
-        <source>Über Qt</source>
-        <translation type="finished"></translation>
+        <source>About Qt</source>
+        <translation>Über Qt</translation>
     </message>
     <message>
-        <source>Copyright (C) 2023~2024 %1. Alle Rechte vorbehalten.&lt;br&gt;Die Erstellung dieses Projekts ist untrennbar mit dieser Open-Source-Software verbunden</source>
-        <translation type="finished"></translation>
+        <source>Copyright (C) 2023~2024 %1. All rights reserved.&lt;br&gt;The birth of this project is inseparable from these open source software</source>
+        <translation>Copyright (C) 2023~2024 %1. Alle Rechte vorbehalten.&lt;br&gt;Die Erstellung dieses Projekts ist untrennbar mit dieser Open-Source-Software verbunden</translation>
     </message>
 </context>
 <context>
-    <name>NetzwerkOCR</name>
+    <name>NetworkOCR</name>
     <message>
         <source>Status Code: </source>
-        <translation type="finished"></translation>
+        <translation>Status Code: </translation>
     </message>
     <message>
         <source>
-Grundphrase: </source>
-        <translation type="finished"></translation>
+Reason Phrase: </source>
+        <translation type="unfinished">
+Grundphrase: </translation>
     </message>
     <message>
-        <source>Warnung</source>
-        <translation type="finished"></translation>
+        <source>Warning</source>
+        <translation>Warnung</translation>
     </message>
     <message>
-        <source>Ihr BaiDu [APIKey oder SecretKey] ist leer, bitte überprüfen Sie ihn und geben Sie ihn erneut ein!</source>
-        <translation type="finished"></translation>
+        <source>Your BaiDu [APIKey Or SecretKey] is empty, please check and re-enter it!</source>
+        <translation>Ihr BaiDu [APIKey oder SecretKey] ist leer, bitte überprüfen Sie ihn und geben Sie ihn erneut ein!</translation>
     </message>
 </context>
 <context>
     <name>Output</name>
     <message>
-        <source>Bildqualität:</source>
-        <translation type="finished"></translation>
+        <source>Image quailty:</source>
+        <translation>Bildqualität:</translation>
     </message>
     <message>
-        <source>Reichweite: [0,100] oder -1.
+        <source>Range: [0,100] or -1.
+Specify 0 to obtain small compressed files, 100 for large uncompressed files,
+and specify -1 to let Sunny decide for you.</source>
+        <translation>Reichweite: [0,100] oder -1.
 Geben Sie 0 an, um kleine komprimierte Dateien zu erhalten, 100 für große unkomprimierte Dateien.
-und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</source>
-        <translation type="finished"></translation>
+und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
     </message>
     <message>
-        <source>Pfad</source>
-        <translation type="finished"></translation>
+        <source>Path</source>
+        <translation>Pfad</translation>
     </message>
     <message>
-        <source>Dateiname：</source>
-        <translation type="finished"></translation>
+        <source>File Name：</source>
+        <translation>Dateiname：</translation>
     </message>
     <message>
-        <source>Config Pfad：</source>
-        <translation type="finished"></translation>
+        <source>Config Path：</source>
+        <translation>Config Pfad：</translation>
     </message>
     <message>
-        <source>Öffnen</source>
-        <translation type="finished"></translation>
+        <source>Open</source>
+        <translation>Öffnen</translation>
     </message>
     <message>
-        <source>Schnellspeichern</source>
-        <translation type="finished"></translation>
+        <source>Quick save</source>
+        <translation>Schnellspeichern</translation>
     </message>
     <message>
-        <source>Pfad：</source>
-        <translation type="finished"></translation>
+        <source>Path：</source>
+        <translation>Pfad：</translation>
     </message>
     <message>
-        <source>Auswählen</source>
-        <translation type="finished"></translation>
+        <source>Select</source>
+        <translation>Auswählen</translation>
     </message>
     <message>
-        <source>Automatisch speichern</source>
-        <translation type="finished"></translation>
+        <source>Auto save</source>
+        <translation>Automatisch speichern</translation>
     </message>
     <message>
-        <source>Pfad:</source>
-        <translation type="finished"></translation>
+        <source>Path:</source>
+        <translation>Pfad:</translation>
     </message>
     <message>
-        <source>Vorschau: </source>
-        <translation type="finished"></translation>
+        <source>Preview: </source>
+        <translation>Vorschau: </translation>
     </message>
     <message>
-        <source>Wähle den Pfad</source>
-        <translation type="finished"></translation>
+        <source>Select a path</source>
+        <translation>Wähle den Pfad</translation>
     </message>
 </context>
 <context>
     <name>PaintToolBar</name>
     <message>
-        <source>Rechteck</source>
-        <translation type="finished"></translation>
+        <source>Rectangle</source>
+        <translation>Rechteck</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="finished"></translation>
+        <translation>Ellipse</translation>
     </message>
     <message>
-        <source>Pfeil</source>
-        <translation type="finished"></translation>
+        <source>Arrow</source>
+        <translation>Pfeil</translation>
     </message>
     <message>
-        <source>Stift</source>
-        <translation type="finished"></translation>
+        <source>Pencil</source>
+        <translation>Stift</translation>
     </message>
     <message>
-        <source>Textmarker</source>
-        <translation type="finished"></translation>
+        <source>Marker pen</source>
+        <translation>Textmarker</translation>
     </message>
     <message>
-        <source>Mosaik/Verwischen</source>
-        <translation type="finished"></translation>
+        <source>Mosaic/Blur</source>
+        <translation>Mosaik/Verwischen</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="finished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
-        <source>Zahlenserie</source>
-        <translation type="finished"></translation>
+        <source>Serial</source>
+        <translation>Zahlenserie</translation>
     </message>
     <message>
-        <source>Übersetzen</source>
-        <translation type="finished"></translation>
+        <source>translate</source>
+        <translation>Übersetzen</translation>
     </message>
     <message>
         <source>OCR</source>
-        <translation type="finished"></translation>
+        <translation>OCR</translation>
     </message>
     <message>
-        <source>Rückgängig</source>
-        <translation type="finished"></translation>
+        <source>Undo</source>
+        <translation>Rückgängig</translation>
     </message>
     <message>
-        <source>Wiederholen</source>
-        <translation type="finished"></translation>
+        <source>Redo</source>
+        <translation>Wiederholen</translation>
     </message>
     <message>
-        <source>Aufnahme abbrechen</source>
-        <translation type="finished"></translation>
+        <source>Cancel Capture</source>
+        <translation>Aufnahme abbrechen</translation>
     </message>
     <message>
-        <source>An den Bildschirm anheften</source>
-        <translation type="finished"></translation>
+        <source>Pin to screen</source>
+        <translation>An den Bildschirm anheften</translation>
     </message>
     <message>
-        <source>In Datei speichern</source>
-        <translation type="finished"></translation>
+        <source>Save to file</source>
+        <translation>In Datei speichern</translation>
     </message>
     <message>
-        <source>In Zwischenablage kopieren</source>
-        <translation type="finished"></translation>
+        <source>copy to clipboard</source>
+        <translation>In Zwischenablage kopieren</translation>
     </message>
 </context>
 <context>
     <name>Pin</name>
     <message>
-        <source>Maximale Größe:</source>
-        <translation type="finished"></translation>
+        <source>Maximum size:</source>
+        <translation>Maximale Größe:</translation>
     </message>
     <message>
-        <source>Deckkraft:</source>
-        <translation type="finished"></translation>
+        <source>Opacity:</source>
+        <translation>Deckkraft:</translation>
     </message>
 </context>
 <context>
     <name>PinWidget</name>
     <message>
         <source>Form</source>
-        <translation type="finished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
-        <source>Kopieren</source>
-        <translation type="finished"></translation>
+        <source>Copy</source>
+        <translation>Kopieren</translation>
     </message>
     <message>
-        <source>Speichern</source>
-        <translation type="finished"></translation>
+        <source>Save</source>
+        <translation>Speichern</translation>
     </message>
     <message>
-        <source>Schatten</source>
-        <translation type="finished"></translation>
+        <source>Shadow</source>
+        <translation>Schatten</translation>
     </message>
     <message>
-        <source>Deckkraft</source>
-        <translation type="finished"></translation>
+        <source>Opicaty</source>
+        <translation>Deckkraft</translation>
     </message>
     <message>
         <source>%1%</source>
-        <translation type="finished"></translation>
+        <translation>%1%</translation>
     </message>
     <message>
-        <source>Schließen</source>
-        <translation type="finished"></translation>
+        <source>Close</source>
+        <translation>Schließen</translation>
     </message>
     <message>
-        <source>Bilddateien(*.png);;Bilddateien(*.jpg);;Bilddateien(*.jpeg);;Bilddateien(*.bmp);;Bilddateien(*.gif);;Alle Dateien(*.*)</source>
-        <translation type="finished"></translation>
+        <source>Image Files(*.png);;Image Files(*.jpg);;Image Files(*.jpeg);;Image Files(*.bmp);;Image Files(*.gif);;All Files(*.*)</source>
+        <translation>Bilddateien(*.png);;Bilddateien(*.jpg);;Bilddateien(*.jpeg);;Bilddateien(*.bmp);;Bilddateien(*.gif);;Alle Dateien(*.*)</translation>
     </message>
     <message>
-        <source>Dateien speichern</source>
-        <translation type="finished"></translation>
+        <source>Save Files</source>
+        <translation>Dateien speichern</translation>
     </message>
     <message>
         <source>Zoom: %1%</source>
-        <translation type="finished"></translation>
+        <translation>Zoom: %1%</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>ABSTURZ</source>
-        <translation type="finished"></translation>
+        <source>CRASH</source>
+        <translation>ABSTURZ</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="finished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
-        <source>Vertikal</source>
-        <translation type="finished"></translation>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
     </message>
     <message>
-        <source>Primär</source>
-        <translation type="finished"></translation>
+        <source>Primary</source>
+        <translation>Primär</translation>
     </message>
 </context>
 <context>
     <name>ResetUI</name>
     <message>
-        <source>Zurücksetzen</source>
-        <translation type="finished"></translation>
+        <source>Reset</source>
+        <translation>Zurücksetzen</translation>
     </message>
 </context>
 <context>
     <name>ScreenShot</name>
     <message>
-        <source>Bilddateien(*.png);;Bilddateien(*.jpg);;Bilddateien(*.jpeg);;Bilddateien(*.bmp);;Bilddateien(*.gif);;Alle Dateien(*.*)</source>
-        <translation type="finished"></translation>
+        <source>Image Files(*.png);;Image Files(*.jpg);;Image Files(*.jpeg);;Image Files(*.bmp);;Image Files(*.gif);;All Files(*.*)</source>
+        <translation>Bilddateien(*.png);;Bilddateien(*.jpg);;Bilddateien(*.jpeg);;Bilddateien(*.bmp);;Bilddateien(*.gif);;Alle Dateien(*.*)</translation>
     </message>
     <message>
-        <source>Dateien Speichern</source>
-        <translation type="finished"></translation>
+        <source>Save Files</source>
+        <translation>Dateien Speichern</translation>
     </message>
     <message>
-        <source>Erfolg</source>
-        <translation type="finished"></translation>
+        <source>Success</source>
+        <translation>Erfolg</translation>
     </message>
     <message>
-        <source>Fehlgeschlagen</source>
-        <translation type="finished"></translation>
+        <source>Failed</source>
+        <translation>Fehlgeschlagen</translation>
     </message>
     <message>
-        <source>Bild speichern unter </source>
-        <translation type="finished"></translation>
+        <source>Image save to </source>
+        <translation>Bild speichern unter </translation>
     </message>
     <message>
-        <source>Die Schnellspeicherfunktion ist nicht aktiviert. Bitte überprüfen Sie dies.</source>
-        <translation type="finished"></translation>
+        <source>Quick save feature is not enabled, please check.</source>
+        <translation>Die Schnellspeicherfunktion ist nicht aktiviert. Bitte überprüfen Sie dies.</translation>
     </message>
 </context>
 <context>
     <name>SideSettingUI</name>
     <message>
-        <source>Einstellungen [Kostenlos]</source>
-        <translation type="finished"></translation>
+        <source>Settings [Free]</source>
+        <translation>Einstellungen [Kostenlos]</translation>
     </message>
     <message>
-        <source>Allgemein</source>
-        <translation type="finished"></translation>
+        <source>General</source>
+        <translation>Allgemein</translation>
     </message>
     <message>
-        <source>Oberfläche</source>
-        <translation type="finished"></translation>
+        <source>Interface</source>
+        <translation>Oberfläche</translation>
     </message>
     <message>
-        <source>Ausgabe</source>
-        <translation type="finished"></translation>
+        <source>Output</source>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <source>Pin</source>
-        <translation type="finished"></translation>
+        <translation>Pin</translation>
     </message>
     <message>
         <source>Hotkeys</source>
-        <translation type="finished"></translation>
+        <translation>Hotkeys</translation>
     </message>
     <message>
         <source>Tokens</source>
-        <translation type="finished"></translation>
+        <translation>Tokens</translation>
     </message>
     <message>
-        <source>Über</source>
-        <translation type="finished"></translation>
+        <source>About</source>
+        <translation>Über</translation>
     </message>
 </context>
 <context>
     <name>SystemInfo</name>
     <message>
         <source>Idx</source>
-        <translation type="finished"></translation>
+        <translation>Idx</translation>
     </message>
     <message>
-        <source>Gerätepixelverhältnis</source>
-        <translation type="finished"></translation>
+        <source>DevicePixelRatio</source>
+        <translation>Gerätepixelverhältnis</translation>
     </message>
     <message>
-        <source>Logische DPI</source>
-        <translation type="finished"></translation>
+        <source>Logical DPI</source>
+        <translation>Logische DPI</translation>
     </message>
     <message>
-        <source>Physische DPI</source>
-        <translation type="finished"></translation>
+        <source>Physical DPI</source>
+        <translation>Physische DPI</translation>
     </message>
     <message>
-        <source>Bildwiederholrate</source>
-        <translation type="finished"></translation>
+        <source>RefreshRate</source>
+        <translation>Bildwiederholrate</translation>
     </message>
     <message>
-        <source>Geometrie</source>
-        <translation type="finished"></translation>
+        <source>Geometry</source>
+        <translation>Geometrie</translation>
     </message>
     <message>
-        <source>PhysischeGröße</source>
-        <translation type="finished"></translation>
+        <source>PhysicalSize</source>
+        <translation>PhysischeGröße</translation>
     </message>
     <message>
-        <source>VirtuelleGeometrie</source>
-        <translation type="finished"></translation>
+        <source>VirtualGeometry</source>
+        <translation>VirtuelleGeometrie</translation>
     </message>
 </context>
 <context>
     <name>Tokens</name>
     <message>
-        <source>Kanal</source>
-        <translation type="finished"></translation>
+        <source>Channel</source>
+        <translation>Kanal</translation>
     </message>
     <message>
         <source>OCR：</source>
-        <translation type="finished"></translation>
+        <translation>OCR：</translation>
     </message>
     <message>
-        <source>Bild Übersetzung：</source>
-        <translation type="finished"></translation>
+        <source>Image Translate：</source>
+        <translation>Bild Übersetzung：</translation>
     </message>
     <message>
-        <source>Nächste Seite</source>
-        <translation type="finished"></translation>
+        <source>Next Page</source>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>BaiDu</source>
-        <translation type="finished"></translation>
+        <translation>BaiDu</translation>
     </message>
     <message>
         <source>API Key:</source>
-        <translation type="finished"></translation>
+        <translation>API Key:</translation>
     </message>
     <message>
         <source>Secret Key:</source>
-        <translation type="finished"></translation>
+        <translation>Secret Key:</translation>
     </message>
     <message>
         <source>Youdao</source>
-        <translation type="finished"></translation>
+        <translation>Youdao</translation>
     </message>
     <message>
         <source>APP ID:</source>
-        <translation type="finished"></translation>
+        <translation>APP ID:</translation>
     </message>
     <message>
-        <source>Hohe Lage</source>
-        <translation type="finished"></translation>
+        <source>high location</source>
+        <translation>Hohe Lage</translation>
     </message>
     <message>
-        <source>Standard Lage</source>
-        <translation type="finished"></translation>
+        <source>standard location</source>
+        <translation>Standard Lage</translation>
     </message>
     <message>
-        <source>Hoch</source>
-        <translation type="finished"></translation>
+        <source>high</source>
+        <translation>Hoch</translation>
     </message>
     <message>
-        <source>Standard</source>
-        <translation type="finished"></translation>
+        <source>standard</source>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>baidu</source>
-        <translation type="finished"></translation>
+        <translation>baidu</translation>
     </message>
     <message>
         <source>youdao</source>
-        <translation type="finished"></translation>
+        <translation>youdao</translation>
     </message>
 </context>
 <context>
     <name>Tray</name>
     <message>
-        <source>Bildschirmaufnahme</source>
-        <translation type="finished"></translation>
+        <source>Screenshot</source>
+        <translation>Bildschirmaufnahme</translation>
     </message>
     <message>
-        <source>Aufnahme</source>
-        <translation type="finished"></translation>
+        <source>Capture</source>
+        <translation>Aufnahme</translation>
     </message>
     <message>
-        <source>Verzögerte Aufnahme</source>
-        <translation type="finished"></translation>
+        <source>Delay Capture</source>
+        <translation>Verzögerte Aufnahme</translation>
     </message>
     <message>
-        <source>Benutzerdefinierte Aufnahme</source>
-        <translation type="finished"></translation>
+        <source>Custom Capture</source>
+        <translation>Benutzerdefinierte Aufnahme</translation>
     </message>
     <message>
-        <source>OCR Aufnahme</source>
-        <translation type="finished"></translation>
+        <source>OCR Capture</source>
+        <translation>OCR Aufnahme</translation>
     </message>
     <message>
-        <source>Bild Übersetzen Aufnahme</source>
-        <translation type="finished"></translation>
+        <source>Image Translate Capture</source>
+        <translation>Bild Übersetzen Aufnahme</translation>
     </message>
     <message>
-        <source>Einstellungen</source>
-        <translation type="finished"></translation>
+        <source>Setting</source>
+        <translation>Einstellungen</translation>
     </message>
     <message>
-        <source>Über</source>
-        <translation type="finished"></translation>
+        <source>About</source>
+        <translation>Über</translation>
     </message>
     <message>
-        <source>Neu Starten</source>
-        <translation type="finished"></translation>
+        <source>Restart</source>
+        <translation>Neu Starten</translation>
     </message>
     <message>
-        <source>Beenden</source>
-        <translation type="finished"></translation>
+        <source>Quit</source>
+        <translation>Beenden</translation>
     </message>
 </context>
 <context>
     <name>XMagnifyingGlass</name>
     <message>
-        <source>Textbeschriftung</source>
-        <translation type="finished"></translation>
+        <source>TextLabel</source>
+        <translation>Textbeschriftung</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Press &lt;span style=&quot; font-weight:700;&quot;&gt;C&lt;/span&gt; Farbe kopieren&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="finished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Press &lt;span style=&quot; font-weight:700;&quot;&gt;Shift&lt;/span&gt; Verbessern RGB/HEX&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="finished"></translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Press &lt;span style=&quot; font-weight:700;&quot;&gt;C&lt;/span&gt; to copy color&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Press &lt;span style=&quot; font-weight:700;&quot;&gt;C&lt;/span&gt; Farbe kopieren&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="finished"></translation>
+        <translation>(%1, %2)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Press &lt;span style=&quot; font-weight:700;&quot;&gt;Shift&lt;/span&gt; to Switch betten RGB/HEX&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Press &lt;span style=&quot; font-weight:700;&quot;&gt;Shift&lt;/span&gt; Verbessern RGB/HEX&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>XMonitorLabel</name>
     <message>
         <source>Idx</source>
-        <translation type="finished"></translation>
+        <translation>Idx</translation>
     </message>
     <message>
-        <source>Gerätepixelverhältnis</source>
-        <translation type="finished"></translation>
+        <source>DevicePixelRatio</source>
+        <translation>Gerätepixelverhältnis</translation>
     </message>
     <message>
-        <source>Logische DPI</source>
-        <translation type="finished"></translation>
+        <source>Logical DPI</source>
+        <translation>Logische DPI</translation>
     </message>
     <message>
-        <source>Physische DPI</source>
-        <translation type="finished"></translation>
+        <source>Physical DPI</source>
+        <translation>Physische DPI</translation>
     </message>
     <message>
-        <source>Bildwiederholrate</source>
-        <translation type="finished"></translation>
+        <source>RefreshRate</source>
+        <translation>Bildwiederholrate</translation>
     </message>
     <message>
-        <source>Geometrie</source>
-        <translation type="finished"></translation>
+        <source>Geometry</source>
+        <translation>Geometrie</translation>
     </message>
     <message>
-        <source>PhysischeGröße</source>
-        <translation type="finished"></translation>
+        <source>PhysicalSize</source>
+        <translation>PhysischeGröße</translation>
     </message>
     <message>
-        <source>Primär</source>
-        <translation type="finished"></translation>
+        <source>Primary</source>
+        <translation>Primär</translation>
     </message>
 </context>
 <context>
     <name>XOcrWidget</name>
     <message>
         <source>OCR</source>
-        <translation type="finished"></translation>
+        <translation>OCR</translation>
     </message>
 </context>
 </TS>
