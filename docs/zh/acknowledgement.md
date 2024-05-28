@@ -3,7 +3,8 @@
 <br><br>
 
 #### 国际化
-- [Thiago Dalsoto](https://github.com/thiagodalsoto): 提供 葡萄牙-巴西 语言翻译
+- [Thiago Dalsoto](https://github.com/thiagodalsoto): 提供 葡萄牙-巴西 翻译
+- [Kthargas](https://github.com/Kthargas): 提供 德语 翻译
 <br><br>
 
 #### Linux

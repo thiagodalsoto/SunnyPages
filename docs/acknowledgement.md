@@ -4,7 +4,8 @@ I'm very happy, There are these contributors to help improve this software, extr
 <br><br>
 
 #### i18n
-- [Thiago Dalsoto](https://github.com/thiagodalsoto): Portuguese-Spanish translation.
+- [Thiago Dalsoto](https://github.com/thiagodalsoto): Portuguese-Brazilian translation
+- [Kthargas](https://github.com/Kthargas): German Translation
 <br><br>
 
 #### Linux
