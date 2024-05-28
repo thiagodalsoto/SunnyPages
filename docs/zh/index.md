@@ -55,7 +55,7 @@ features:
       light: /images/home/macos.svg
       dark:  /images/home/macos_blue.svg
   - title: Linux
-    details: Debian / Ubuntu / Deepin / UOS / OpenKylin / Kali / etc.
+    details: Debian / Ubuntu / Deepin / UOS / OpenKylin / ArchLinux / Mint / Kali / Fedora / Devuan / Pop!_OS / etc.
     icon: 
       light: /images/home/linux.svg
       dark:  /images/home/linux_blue.svg
