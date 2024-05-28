@@ -63,52 +63,6 @@ This program will be developed and maintained for at least ten years starting in
 
 
 
-
-
-## Presentations Effect
-
-## Voido
-
-[<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402192034134.png" width="100"/>](https://www.bilibili.com/video/BV1c4421c7Hy)
-
-<br>
-
-## Snapshoot
-
-### Windows
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112043324.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112043140.jpg" width="48%"/>
-
-
-
-### MacOS
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405231912132.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405231913913.jpg" width="48%"/>
-
-
-
-### Linux
-
-#### Debian 12
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112045110.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112045976.jpg" width="48%"/>
-
-#### Ubuntu 22.04
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044656.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044753.jpg" width="48%"/>
-
-#### Deepin V20-23 / UOS
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044108.jpg" width="48%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044012.jpg" width="48%"/>
-
-#### Deepin V23 ARM64 & LOONGSON64
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112047180.jpg" width="48%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112047032.jpg" width="48%"/>
-
-#### Openkylin V1.0.x
-
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112045909.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112046334.jpg" width="48%"/>
-
 <br>
 
 ## Code Signing Certificate 🎉
@@ -116,6 +70,8 @@ This program will be developed and maintained for at least ten years starting in
 > Downloading from GitHub [Release](https://github.com/XMuli/SunnyPages/releases) is highly recommended for the fastest and most stable updates. After downloading the file, right-click on the file's properties to verify its uniqueness and make sure the file has not been tampered with;
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>
+
+
 
 <br>
 
@@ -183,6 +139,52 @@ This program will be developed and maintained for at least ten years starting in
 | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> ( <kbd>A</kbd>, <kbd>S</kbd>, <kbd>W</kbd>, <kbd>D</kbd> ) | Move selection 1px                                           | Local  |
 | <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Extended selection 10 px                                     | Local  |
 | <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | Shrink selection 10 px                                       | Local  |
+
+<br>
+
+## Presentations Effect
+
+## Voido
+
+[<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402192034134.png" width="100"/>](https://www.bilibili.com/video/BV1c4421c7Hy)
+
+<br>
+
+## Snapshoot
+
+### Windows
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112043324.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112043140.jpg" width="48%"/>
+
+
+
+### MacOS
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405231912132.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405231913913.jpg" width="48%"/>
+
+
+
+### Linux
+
+#### Debian 12
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112045110.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112045976.jpg" width="48%"/>
+
+#### Ubuntu 22.04
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044656.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044753.jpg" width="48%"/>
+
+#### Deepin V20-23 / UOS
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044108.jpg" width="48%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112044012.jpg" width="48%"/>
+
+#### Deepin V23 ARM64 & LOONGSON64
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112047180.jpg" width="48%"/> <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112047032.jpg" width="48%"/>
+
+#### Openkylin V1.0.2
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112045909.jpg" width="48%"/>  <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202405112046334.jpg" width="48%"/>
 
 <br>
 
