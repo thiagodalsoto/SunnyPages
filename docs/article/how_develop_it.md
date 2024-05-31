@@ -2,6 +2,16 @@
 
 在写和发布的后的期间，也遇到很多私聊请教 、 邮件沟通某个功能实现？反馈 Bug 和给出使用心得和建议；都给答疑了，但想来可写为一整篇，中间遇到的困难点都写出来，公开出来提供后来者参考。
 
+
+
+## 开源代码
+
+|                          Name                           |    License    |                           Describe                           |
+| :-----------------------------------------------------: | :-----------: | :----------------------------------------------------------: |
+|  [FLIPPED](https://github.com/SunnyScreenshot/FLIPPED)  |      MIT      | 简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台，亦一个极佳练手的截图完整项目；适合已有经验的工程师 |
+|    [ShotX](https://github.com/SunnyScreenshot/ShotX)    |      MIT      |            一款极简的跨平台截图工具，适合新手学习            |
+| [Sunny Screenshot](https://github.com/SunnyScreenshot/) | Organizations |                              -                               |
+
 <br>
 
 ## 编译环境

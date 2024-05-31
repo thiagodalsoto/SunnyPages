@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'Docs', items: [
           { text: 'Development Experience', link: '/article/how_develop_it' },
+          { text: 'Code open Source', link: 'https://github.com/SunnyScreenshot' },
           { text: 'Change Log', link: 'https://txc.qq.com/products/649489/change-log' },
           // { text: 'Wiki', link: 'https://github.com/XMuli/SunnyPages/wiki' },
         ],
@@ -46,7 +47,7 @@ export default defineConfig({
       //     { text: 'ShotX', link: 'https://github.com/XMuli/shotx' },
       //   ]
       // },
-      { text: 'Internalization', link: 'https://github.com/XMuli/SunnyPages/tree/master/translations' }
+      { text: 'Internalization', link: 'https://github.com/SunnyScreenshot/translations' }
     ],
 
     sidebar: [
