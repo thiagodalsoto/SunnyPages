@@ -16,8 +16,6 @@
 </div>
 <img src="https://img.shields.io/github/release/XMuli/SunnyPages.svg?label=tags" alt="tags"/> <img src="https://img.shields.io/github/downloads/XMuli/SunnyPages/total" alt="Total Downloads" />
 
-
-
 [TOC]
 
 ## Introduce
@@ -70,8 +68,6 @@ This program will be developed and maintained for at least ten years starting in
 > Downloading from GitHub [Release](https://github.com/XMuli/SunnyPages/releases) is highly recommended for the fastest and most stable updates. After downloading the file, right-click on the file's properties to verify its uniqueness and make sure the file has not been tampered with;
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202402010109545.png" width="600"/>
-
-
 
 <br>
 

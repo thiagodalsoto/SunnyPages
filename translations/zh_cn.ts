@@ -646,6 +646,41 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
 </context>
 <context>
+    <name>SystemInfo</name>
+    <message>
+        <source>Idx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DevicePixelRatio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Physical DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RefreshRate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PhysicalSize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VirtualGeometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ToolBar</name>
     <message>
         <source>Form</source>
@@ -779,6 +814,18 @@ download link: %2</source>
     </message>
     <message>
         <source>You are already on the latest version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install new version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A new version [%1] is available. Do you want to install it now?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
