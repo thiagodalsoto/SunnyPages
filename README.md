@@ -22,7 +22,7 @@
 
 ### Describe
 
-Sunny is a beautiful and useful "Screenshot & Pinning" software, also supports "Screen Recognition" and "OCR" software, supports Windows, MacOS, Linux operating systems.
+Sunny is a beautiful and useful "Screenshot & Pinning" software, also supports "Screen Recognition" and "OCR" software, supports Windows, MacOS, Linux operating systems. 
 
 This program will be developed and maintained for at least ten years starting in 2023 and is **free** of charge!
 
