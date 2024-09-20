@@ -205,6 +205,49 @@ The birth of this project is inseparable from these open source software</source
     </message>
 </context>
 <context>
+    <name>PinWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opicaty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Files(*.png);;Image Files(*.jpg);;Image Files(*.jpeg);;Image Files(*.bmp);;Image Files(*.gif);;All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Version Update</source>
@@ -643,6 +686,10 @@ and specify -1 to let Sunny decide for you.</source>
         <source>Check for updates</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manual website download</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SystemInfo</name>
@@ -693,38 +740,6 @@ and specify -1 to let Sunny decide for you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rectangle (Ctrl + 1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ellipse (Ctrl + 2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl + 3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl + 4)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl + 5)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mosaic / Blur (Ctrl + 6)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text (Ctrl + 7)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Serial (Ctrl + 8)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Scroll capture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -737,27 +752,59 @@ and specify -1 to let Sunny decide for you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Undo (Ctrl + Z)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl + Y)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel Capture (Esc)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl + T)</source>
+        <source>Rectangle (Ctrl+1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save to file (Ctrl + S)</source>
+        <source>Ellipse (Ctrl+2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copy to clipboard (Ctrl + C)</source>
+        <source>Arrow (Ctrl+3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil (Ctrl+4) (B)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur/Mosaic (Ctrl+6)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (Ctrl+7) (T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serial (Ctrl+8) (S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo (Ctrl+Z)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo (Ctrl+Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to file (Ctrl+S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard (Ctrl+C)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -803,11 +850,6 @@ and specify -1 to let Sunny decide for you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A new version %1 is available. Do you want to download it?
-download link: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Update</source>
         <translation type="unfinished"></translation>
     </message>
@@ -825,6 +867,10 @@ download link: %2</source>
     </message>
     <message>
         <source>A new version [%1] is available. Do you want to install it now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A new version %1 is available.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
