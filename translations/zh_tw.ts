@@ -145,6 +145,27 @@ The birth of this project is inseparable from these open source software</source
     </message>
 </context>
 <context>
+    <name>NetTencent</name>
+    <message>
+        <source>Status Code: </source>
+        <translation>狀態碼: </translation>
+    </message>
+    <message>
+        <source>
+Reason Phrase: </source>
+        <translation>
+狀態描述: </translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>Your Baidu Yun API Secret [ID Or Key] is empty, please check and re-enter it!</source>
+        <translation>你的百度雲 API 密鑰 [ID 或 Key] 為空，請檢查並重新輸入！</translation>
+    </message>
+</context>
+<context>
     <name>OcrUI</name>
     <message>
         <source>Extract Text</source>
@@ -299,6 +320,438 @@ The birth of this project is inseparable from these open source software</source
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
         <translation>您的目前版本已過時。請從 &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; 下載最新版本，或者聯絡開發者獲取下載連結：&lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt;。</translation>
     </message>
+    <message>
+        <source>Tencent Cloud</source>
+        <translation>騰訊雲</translation>
+    </message>
+    <message>
+        <source>Baidu Cloud</source>
+        <translation>百度雲</translation>
+    </message>
+    <message>
+        <source>Offline Local</source>
+        <translation>本地離線</translation>
+    </message>
+    <message>
+        <source>Youdao Cloud</source>
+        <translation>有道雲</translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation>簡體中文</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation>繁體中文</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>英語</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>日語</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation>韓語</translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation>俄語</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>法語</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>德語</translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation>意大利語</translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation>西班牙語</translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation>葡萄牙語</translation>
+    </message>
+    <message>
+        <source>Malay</source>
+        <translation>馬來西亞語</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>泰語</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation>越南語</translation>
+    </message>
+    <message>
+        <source>Auto detect</source>
+        <translation>自動識別</translation>
+    </message>
+    <message>
+        <source>Dutch</source>
+        <translation>荷蘭語</translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation>丹麥語</translation>
+    </message>
+    <message>
+        <source>Swedish</source>
+        <translation>瑞典語</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>印尼語</translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation>波蘭語</translation>
+    </message>
+    <message>
+        <source>Romanian</source>
+        <translation>羅馬尼亞語</translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation>土耳其語</translation>
+    </message>
+    <message>
+        <source>Greek</source>
+        <translation>希臘語</translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation>匈牙利語</translation>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation>阿拉伯語</translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation>印地語</translation>
+    </message>
+    <message>
+        <source>Afrikaans</source>
+        <translation>南非荷蘭語</translation>
+    </message>
+    <message>
+        <source>Azeerbaijani</source>
+        <translation>阿塞拜疆語</translation>
+    </message>
+    <message>
+        <source>Belarusian</source>
+        <translation>白俄羅斯語</translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation>保加利亞語</translation>
+    </message>
+    <message>
+        <source>Bangla</source>
+        <translation>保加利亞語</translation>
+    </message>
+    <message>
+        <source>Bosnian (Latin)</source>
+        <translation>波斯尼亞語</translation>
+    </message>
+    <message>
+        <source>Catalan</source>
+        <translation>加泰隆語</translation>
+    </message>
+    <message>
+        <source>Cebuano</source>
+        <translation>宿務語</translation>
+    </message>
+    <message>
+        <source>Corsican</source>
+        <translation>科西嘉語</translation>
+    </message>
+    <message>
+        <source>Czech</source>
+        <translation>捷克語</translation>
+    </message>
+    <message>
+        <source>Welsh</source>
+        <translation>威爾士語</translation>
+    </message>
+    <message>
+        <source>Esperanto</source>
+        <translation>世界語</translation>
+    </message>
+    <message>
+        <source>Estonian</source>
+        <translation>愛沙尼亞語</translation>
+    </message>
+    <message>
+        <source>Basque</source>
+        <translation>巴斯克語</translation>
+    </message>
+    <message>
+        <source>Persian</source>
+        <translation>波斯語</translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation>芬蘭語</translation>
+    </message>
+    <message>
+        <source>Frisian</source>
+        <translation>弗裡西語</translation>
+    </message>
+    <message>
+        <source>Irish</source>
+        <translation>愛爾蘭語</translation>
+    </message>
+    <message>
+        <source>Scots Gaelic</source>
+        <translation>蘇格蘭蓋爾語</translation>
+    </message>
+    <message>
+        <source>Galician</source>
+        <translation>加利西亞語</translation>
+    </message>
+    <message>
+        <source>Gujarati</source>
+        <translation>古吉拉特語</translation>
+    </message>
+    <message>
+        <source>Hausa</source>
+        <translation>豪薩語</translation>
+    </message>
+    <message>
+        <source>Hawaiian</source>
+        <translation>夏威夷語</translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation>希伯來語</translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation>克羅地亞語</translation>
+    </message>
+    <message>
+        <source>Haitian Creole</source>
+        <translation>海地克里奧爾語</translation>
+    </message>
+    <message>
+        <source>Armenian</source>
+        <translation>亞美尼亞語</translation>
+    </message>
+    <message>
+        <source>Igbo</source>
+        <translation>伊博語</translation>
+    </message>
+    <message>
+        <source>Icelandic</source>
+        <translation>冰島語</translation>
+    </message>
+    <message>
+        <source>Javanese</source>
+        <translation>爪哇語</translation>
+    </message>
+    <message>
+        <source>Georgian</source>
+        <translation>格魯吉亞語</translation>
+    </message>
+    <message>
+        <source>Kazakh</source>
+        <translation>哈薩克語</translation>
+    </message>
+    <message>
+        <source>Khmer</source>
+        <translation>高棉語</translation>
+    </message>
+    <message>
+        <source>Kannada</source>
+        <translation>卡納達語</translation>
+    </message>
+    <message>
+        <source>Kurdish</source>
+        <translation>庫爾德語</translation>
+    </message>
+    <message>
+        <source>Kyrgyz</source>
+        <translation>柯爾克孜語</translation>
+    </message>
+    <message>
+        <source>Latin</source>
+        <translation>拉丁語</translation>
+    </message>
+    <message>
+        <source>Luxembourgish</source>
+        <translation>盧森堡語</translation>
+    </message>
+    <message>
+        <source>Lao</source>
+        <translation>老撾語</translation>
+    </message>
+    <message>
+        <source>Lithuanian</source>
+        <translation>立陶宛語</translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation>拉脫維亞語</translation>
+    </message>
+    <message>
+        <source>Malagasy</source>
+        <translation>馬爾加什語</translation>
+    </message>
+    <message>
+        <source>Maori</source>
+        <translation>毛利語</translation>
+    </message>
+    <message>
+        <source>Macedonian</source>
+        <translation>馬其頓語</translation>
+    </message>
+    <message>
+        <source>Malayalam</source>
+        <translation>馬拉雅拉姆語</translation>
+    </message>
+    <message>
+        <source>Mongolian</source>
+        <translation>蒙古語</translation>
+    </message>
+    <message>
+        <source>Marathi</source>
+        <translation>馬拉地語</translation>
+    </message>
+    <message>
+        <source>Maltese</source>
+        <translation>馬耳他語</translation>
+    </message>
+    <message>
+        <source>Myanmar (Burmese)</source>
+        <translation>緬甸語</translation>
+    </message>
+    <message>
+        <source>Nepali</source>
+        <translation>尼泊爾語</translation>
+    </message>
+    <message>
+        <source>Norwegian</source>
+        <translation>挪威語</translation>
+    </message>
+    <message>
+        <source>Nyanja (Chichewa)</source>
+        <translation>齊切瓦語</translation>
+    </message>
+    <message>
+        <source>Punjabi</source>
+        <translation>旁遮普語</translation>
+    </message>
+    <message>
+        <source>Pashto</source>
+        <translation>普什圖語</translation>
+    </message>
+    <message>
+        <source>Sindhi</source>
+        <translation>信德語</translation>
+    </message>
+    <message>
+        <source>Sinhala (Sinhalese)</source>
+        <translation>僧伽羅語</translation>
+    </message>
+    <message>
+        <source>Slovak</source>
+        <translation>斯洛伐克語</translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation>斯洛文尼亞語</translation>
+    </message>
+    <message>
+        <source>Samoan</source>
+        <translation>薩摩亞語</translation>
+    </message>
+    <message>
+        <source>Shona</source>
+        <translation>修納語</translation>
+    </message>
+    <message>
+        <source>Somali</source>
+        <translation>索馬里語</translation>
+    </message>
+    <message>
+        <source>Albanian</source>
+        <translation>阿爾巴尼亞語</translation>
+    </message>
+    <message>
+        <source>Serbian (Cyrillic)</source>
+        <translation>塞爾維亞語(西里爾文)</translation>
+    </message>
+    <message>
+        <source>Serbian (Latin)</source>
+        <translation>塞爾維亞語(拉丁文)</translation>
+    </message>
+    <message>
+        <source>Sesotho</source>
+        <translation>塞索托語</translation>
+    </message>
+    <message>
+        <source>Sundanese</source>
+        <translation>巽他語</translation>
+    </message>
+    <message>
+        <source>Kiswahili</source>
+        <translation>斯瓦希里語</translation>
+    </message>
+    <message>
+        <source>Tamil</source>
+        <translation>泰米爾語</translation>
+    </message>
+    <message>
+        <source>Telugu</source>
+        <translation>泰盧固語</translation>
+    </message>
+    <message>
+        <source>Tajik</source>
+        <translation>塔吉克語</translation>
+    </message>
+    <message>
+        <source>Filipino</source>
+        <translation>菲律賓語</translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation>烏克蘭語</translation>
+    </message>
+    <message>
+        <source>Urdu</source>
+        <translation>烏爾都語</translation>
+    </message>
+    <message>
+        <source>Uzbek</source>
+        <translation>烏茲別克語</translation>
+    </message>
+    <message>
+        <source>Xhosa</source>
+        <translation>科薩語</translation>
+    </message>
+    <message>
+        <source>Yiddish</source>
+        <translation>意第緒語</translation>
+    </message>
+    <message>
+        <source>Yoruba</source>
+        <translation>約魯巴語</translation>
+    </message>
+    <message>
+        <source>Zulu</source>
+        <translation>祖魯語</translation>
+    </message>
 </context>
 <context>
     <name>SettingUI</name>
@@ -378,6 +831,10 @@ The birth of this project is inseparable from these open source software</source
         <source>Select Auto Save Directory</source>
         <translation>選擇自動保存目錄</translation>
     </message>
+    <message>
+        <source> Account</source>
+        <translation> 賬號</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutLineEdit</name>
@@ -410,6 +867,25 @@ The birth of this project is inseparable from these open source software</source
     </message>
 </context>
 <context>
+    <name>SubExtractText</name>
+    <message>
+        <source>Engine:</source>
+        <translation>引擎:</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>賬號</translation>
+    </message>
+    <message>
+        <source>Secret ID:</source>
+        <translation>密鑰 ID:</translation>
+    </message>
+    <message>
+        <source>Secret Key:</source>
+        <translation>密鑰 Key:</translation>
+    </message>
+</context>
+<context>
     <name>SubGeneral</name>
     <message>
         <source>Form</source>
@@ -435,40 +911,55 @@ The birth of this project is inseparable from these open source software</source
         <translation></translation>
     </message>
     <message>
-        <source>Extract text：</source>
-        <translation>提取文字:</translation>
+        <source>Extract text</source>
+        <translation>提取文本</translation>
     </message>
     <message>
-        <source>OCR：</source>
-        <translation type="unfinished"></translation>
+        <source>Picture translation</source>
+        <translation>圖片翻譯</translation>
+    </message>
+</context>
+<context>
+    <name>SubImageTranslate</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
     </message>
     <message>
-        <source>BaiDu online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>offline</source>
-        <translation type="unfinished"></translation>
+        <source>Engine:</source>
+        <translation>引擎:</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>賬號</translation>
     </message>
     <message>
-        <source>Image Translate：</source>
-        <translation type="unfinished"></translation>
+        <source>Secret ID:</source>
+        <translation>密鑰 ID:</translation>
     </message>
     <message>
-        <source>Online:</source>
-        <translation type="unfinished"></translation>
+        <source>Secret Key:</source>
+        <translation>密鑰 Key:</translation>
     </message>
     <message>
-        <source>BaiDu</source>
-        <translation type="unfinished"></translation>
+        <source>Tenent Cloud</source>
+        <translation>騰訊雲</translation>
     </message>
     <message>
-        <source>YouDao</source>
-        <translation type="unfinished"></translation>
+        <source>Source language：</source>
+        <translation>源語言:</translation>
+    </message>
+    <message>
+        <source>Target language:</source>
+        <translation>目標語言:</translation>
+    </message>
+    <message>
+        <source>Baidu Cloud</source>
+        <translation>百度雲</translation>
+    </message>
+    <message>
+        <source>Youdao Cloud</source>
+        <translation>有道雲</translation>
     </message>
 </context>
 <context>

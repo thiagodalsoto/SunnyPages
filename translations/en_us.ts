@@ -143,6 +143,26 @@ The birth of this project is inseparable from these open source software</source
     </message>
 </context>
 <context>
+    <name>NetTencent</name>
+    <message>
+        <source>Status Code: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+Reason Phrase: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your Baidu Yun API Secret [ID Or Key] is empty, please check and re-enter it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OcrUI</name>
     <message>
         <source>Extract Text</source>
@@ -297,6 +317,438 @@ The birth of this project is inseparable from these open source software</source
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Tencent Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Youdao Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dutch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swedish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Romanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Afrikaans</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Azeerbaijani</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Belarusian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bangla</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bosnian (Latin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cebuano</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corsican</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Welsh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Esperanto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estonian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basque</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Persian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frisian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Irish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scots Gaelic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Galician</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gujarati</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hausa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hawaiian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Haitian Creole</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Armenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Igbo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icelandic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Javanese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Georgian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kazakh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Khmer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kannada</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kurdish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kyrgyz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Luxembourgish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lithuanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malagasy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maori</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macedonian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malayalam</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mongolian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marathi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maltese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Myanmar (Burmese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nepali</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norwegian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nyanja (Chichewa)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Punjabi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pashto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sindhi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sinhala (Sinhalese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovak</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Samoan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shona</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Somali</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Albanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serbian (Cyrillic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serbian (Latin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sesotho</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sundanese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kiswahili</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tamil</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Telugu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tajik</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filipino</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Urdu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uzbek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xhosa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yiddish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yoruba</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zulu</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingUI</name>
@@ -376,6 +828,10 @@ The birth of this project is inseparable from these open source software</source
         <source>Select Auto Save Directory</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source> Account</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutLineEdit</name>
@@ -408,6 +864,25 @@ The birth of this project is inseparable from these open source software</source
     </message>
 </context>
 <context>
+    <name>SubExtractText</name>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secret ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secret Key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SubGeneral</name>
     <message>
         <source>Form</source>
@@ -433,19 +908,22 @@ The birth of this project is inseparable from these open source software</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Extract text：</source>
+        <source>Extract text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OCR：</source>
+        <source>Picture translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SubImageTranslate</name>
+    <message>
+        <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>BaiDu online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>offline</source>
+        <source>Engine:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -453,19 +931,31 @@ The birth of this project is inseparable from these open source software</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Image Translate：</source>
+        <source>Secret ID:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online:</source>
+        <source>Secret Key:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>BaiDu</source>
+        <source>Tenent Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>YouDao</source>
+        <source>Source language：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Target language:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Youdao Cloud</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
