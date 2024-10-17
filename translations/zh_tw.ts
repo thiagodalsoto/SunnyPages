@@ -884,6 +884,10 @@ Reason Phrase: </source>
         <source>Secret Key:</source>
         <translation>密鑰 Key:</translation>
     </message>
+    <message>
+        <source>If it is empty, the built-in account is used by default (stability is not guaranteed); if it is not empty, the filled-in key is preferred.</source>
+        <translation>若為空，則默使用內置的賬號（不能保證穩定性）；若不為空，則優先使用填寫的 key。</translation>
+    </message>
 </context>
 <context>
     <name>SubGeneral</name>
@@ -961,6 +965,10 @@ Reason Phrase: </source>
         <source>Youdao Cloud</source>
         <translation>有道雲</translation>
     </message>
+    <message>
+        <source>If it is empty, the built-in account is used by default (stability is not guaranteed); if it is not empty, the filled-in key is preferred.</source>
+        <translation>若為空，則默使用內置的賬號（不能保證穩定性）；若不為空，則優先使用填寫的 key。</translation>
+    </message>
 </context>
 <context>
     <name>SubInterface</name>
@@ -1023,6 +1031,22 @@ Reason Phrase: </source>
     <message>
         <source>Show Usage tips</source>
         <translation>顯示操作提示</translation>
+    </message>
+    <message>
+        <source>Auto detect windows</source>
+        <translation>自動檢測窗口</translation>
+    </message>
+    <message>
+        <source>Classical algorithm</source>
+        <translation>經典算法</translation>
+    </message>
+    <message>
+        <source>Depth algorithm</source>
+        <translation>深度算法</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>關閉</translation>
     </message>
 </context>
 <context>
@@ -1108,23 +1132,15 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Delay capture:</source>
-        <translation>延時截屏:</translation>
-    </message>
-    <message>
-        <source>Extract text capture:</source>
-        <translation>截屏後提取文字:</translation>
+        <translation>延時截圖:</translation>
     </message>
     <message>
         <source>Cpature:</source>
-        <translation>截屏:</translation>
+        <translation>截圖:</translation>
     </message>
     <message>
         <source>Scroll capture:</source>
-        <translation>滾動截屏:</translation>
-    </message>
-    <message>
-        <source>Open extract text:</source>
-        <translation>打開提取文字窗口:</translation>
+        <translation>滾動截圖:</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -1133,6 +1149,18 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Restore Defaults</source>
         <translation>恢復默認</translation>
+    </message>
+    <message>
+        <source>Open ocr window:</source>
+        <translation>打開 OCR 窗口:</translation>
+    </message>
+    <message>
+        <source>Extract text:</source>
+        <translation>提取文本:</translation>
+    </message>
+    <message>
+        <source>Image translation:</source>
+        <translation>圖片翻譯:</translation>
     </message>
 </context>
 <context>
@@ -1236,7 +1264,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Scroll capture</source>
-        <translation>滾動截屏</translation>
+        <translation>滾動截圖</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -1248,7 +1276,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Cancel Capture (Esc)</source>
-        <translation>退出截屏 (Esc)</translation>
+        <translation>退出截圖 (Esc)</translation>
     </message>
     <message>
         <source>Rectangle (Ctrl+1)</source>
@@ -1315,11 +1343,11 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Sunny Capture %1</source>
-        <translation>Sunny 截屏 %1</translation>
+        <translation>Sunny 截圖 %1</translation>
     </message>
     <message>
         <source>Capture</source>
-        <translation>截屏</translation>
+        <translation>截圖</translation>
     </message>
     <message>
         <source>Extract Text</source>
@@ -1336,6 +1364,14 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Quit</source>
         <translation>退出</translation>
+    </message>
+    <message>
+        <source>Image translation</source>
+        <translation>圖片翻譯</translation>
+    </message>
+    <message>
+        <source>Open OCR Window</source>
+        <translation>打開 OCR 窗口</translation>
     </message>
 </context>
 <context>

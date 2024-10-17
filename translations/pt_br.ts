@@ -882,6 +882,10 @@ Reason Phrase: </source>
         <source>Secret Key:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If it is empty, the built-in account is used by default (stability is not guaranteed); if it is not empty, the filled-in key is preferred.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubGeneral</name>
@@ -959,6 +963,10 @@ Reason Phrase: </source>
         <source>Youdao Cloud</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If it is empty, the built-in account is used by default (stability is not guaranteed); if it is not empty, the filled-in key is preferred.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubInterface</name>
@@ -1021,6 +1029,22 @@ Reason Phrase: </source>
     <message>
         <source>Show Usage tips</source>
         <translation>Mostrar dicas de uso</translation>
+    </message>
+    <message>
+        <source>Auto detect windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classical algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depth algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1109,10 +1133,6 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
         <translation>Captura atrasada:</translation>
     </message>
     <message>
-        <source>Extract text capture:</source>
-        <translation>Extrair captura de texto:</translation>
-    </message>
-    <message>
         <source>Cpature:</source>
         <translation>Captura:</translation>
     </message>
@@ -1121,16 +1141,24 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
         <translation>Captura de rolagem:</translation>
     </message>
     <message>
-        <source>Open extract text:</source>
-        <translation>Abrir texto extraído:</translation>
-    </message>
-    <message>
         <source>Key Bindings</source>
         <translation>Atalhos de Teclado</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
         <translation>Restaurar Padrões</translation>
+    </message>
+    <message>
+        <source>Open ocr window:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image translation:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1334,6 +1362,14 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
     <message>
         <source>Extract Text</source>
         <translation>Extrair Texto</translation>
+    </message>
+    <message>
+        <source>Image translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open OCR Window</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

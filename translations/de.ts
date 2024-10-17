@@ -881,6 +881,10 @@ Reason Phrase: </source>
         <source>Secret Key:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If it is empty, the built-in account is used by default (stability is not guaranteed); if it is not empty, the filled-in key is preferred.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubGeneral</name>
@@ -958,6 +962,10 @@ Reason Phrase: </source>
         <source>Youdao Cloud</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If it is empty, the built-in account is used by default (stability is not guaranteed); if it is not empty, the filled-in key is preferred.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubInterface</name>
@@ -1019,6 +1027,22 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Show Usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto detect windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classical algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depth algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1108,10 +1132,6 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
         <translation type="unfinished">Verzögerte Aufnahme:</translation>
     </message>
     <message>
-        <source>Extract text capture:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cpature:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1120,15 +1140,23 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open extract text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Key Bindings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restore Defaults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open ocr window:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image translation:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1332,6 +1360,14 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
     </message>
     <message>
         <source>Extract Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open OCR Window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
